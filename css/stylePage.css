@@ -1,0 +1,30 @@
+body {
+	padding-top: 50px;
+	background: url(../imagenes/homeImage.jpg);
+}
+.starter-template {
+	padding: 40px 15px;
+	text-align: center;
+}
+.navbar {
+	background-color: darkseagreen;
+	border-color: #080808;
+}
+
+.nav li a:hover {
+	background-color:#434343;
+}
+
+form{
+	color: #30C29E;
+}
+
+th{
+	color: #30C29E;
+}
+
+.btn-lg{
+	font-size: 10px;
+}
+
+

@@ -1,0 +1,65 @@
+<div class = fondo>
+<link href="css/tablaForm.css" rel="stylesheet">
+</div>
+<form>
+	<div>
+		<label>Receta</label>
+		<input type="text" class="form-control">
+	</div>
+	<div>
+		<label>Comensales</label>
+		<select class="form-control">
+			<option>1</option>
+			<option>2</option>
+			<option>3</option>
+			<option>4</option>
+			<option>5</option>
+		</select>
+	</div>
+
+	<div>
+		<label>Categorias</label>
+	</div>
+	<div class="checkbox">
+		<label>
+			<input type="radio" name="blankRadio" id="blankRadio1" value="option1" aria-label="...">
+		</label>
+	</div>
+	<div class="checkbox">
+		<label>
+    		<input type="radio" name="blankRadio" id="blankRadio1" value="option1" aria-label="...">
+		</label>
+	</div>
+	<div class="checkbox">
+		<label>
+			<input type="radio" name="blankRadio" id="blankRadio1" value="option1" aria-label="...">
+		</label>
+	</div>
+	
+	<div>
+		<label>Tiempo de Preparacion</label>
+		<input type="text" class="form-control">
+	</div>
+	
+	<div class = "Ingredientes">
+		<textarea class="form-control" rows="3" placeholder="Ingrese los ingredientes necesarios para la receta"></textarea>
+	</div>
+	
+	<div class = "Preparacion">
+		<textarea class="form-control" rows="3" placeholder="Ingrese los pasos necesarios para la receta"></textarea>
+	</div>
+	
+	<div>
+		<label>Autor</label>
+		<input type="text" class="form-control">
+	</div>
+	
+	<div class="form-group">
+		<label for="exampleInputEmail1">Email address</label>
+		<input type="email" class="form-control" id="exampleInputEmail1" placeholder="Email">
+	</div>
+	
+	<button type="enviar" id = "enviar" class="btn btn-default" onclick = "enviarForm();">Enviar</button>
+	<button type="cancelar" id= "cancelar" class="btn btn-default">Cancelar</button>
+
+</form>
