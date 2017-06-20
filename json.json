@@ -1,0 +1,3711 @@
+// 20170617223251
+// http://web-unicen.herokuapp.com/api/thing
+
+{
+  "status": "OK",
+  "information": [
+    {
+      "_id": "592665dec7788404003faaeb",
+      "group": "57",
+      "thing": "bjkbjbik",
+      "__v": 0,
+      "dateAdded": "2017-05-25T05:04:30.298Z"
+    },
+    {
+      "_id": "59266606c7788404003faaec",
+      "group": "57",
+      "thing": "bjkbjbik",
+      "__v": 0,
+      "dateAdded": "2017-05-25T05:05:10.418Z"
+    },
+    {
+      "_id": "592c203c52e85604001027ac",
+      "group": "100",
+      "thing": "hola!",
+      "__v": 0,
+      "dateAdded": "2017-05-29T13:21:00.354Z"
+    },
+    {
+      "_id": "592c85316b1a20040047a791",
+      "group": "100",
+      "thing": "d",
+      "__v": 0,
+      "dateAdded": "2017-05-29T20:31:45.024Z"
+    },
+    {
+      "_id": "592c85726b1a20040047a792",
+      "group": "100",
+      "thing": "Probamos otro string",
+      "__v": 0,
+      "dateAdded": "2017-05-29T20:32:50.597Z"
+    },
+    {
+      "_id": "592c866a6b1a20040047a793",
+      "group": "100",
+      "thing": "Agregamos con auto refresh!",
+      "__v": 0,
+      "dateAdded": "2017-05-29T20:36:58.068Z"
+    },
+    {
+      "_id": "5934889b426ec104001eece7",
+      "group": "201",
+      "thing": "uno",
+      "__v": 0,
+      "dateAdded": "2017-06-04T22:24:27.844Z"
+    },
+    {
+      "_id": "59348905426ec104001eece8",
+      "group": "201",
+      "thing": "dos",
+      "__v": 0,
+      "dateAdded": "2017-06-04T22:26:13.755Z"
+    },
+    {
+      "_id": "59348a39426ec104001eece9",
+      "group": "201",
+      "thing": "tres",
+      "__v": 0,
+      "dateAdded": "2017-06-04T22:31:21.355Z"
+    },
+    {
+      "_id": "59348b0b426ec104001eecea",
+      "group": "201",
+      "thing": "cuatro",
+      "__v": 0,
+      "dateAdded": "2017-06-04T22:34:51.047Z"
+    },
+    {
+      "_id": "5936ad1c6515e70400dc7ceb",
+      "group": "100",
+      "thing": "buenas!",
+      "__v": 0,
+      "dateAdded": "2017-06-06T13:24:44.344Z"
+    },
+    {
+      "_id": "593714f547807c0400c89a00",
+      "group": "102",
+      "thing": "Overwatch",
+      "__v": 0,
+      "dateAdded": "2017-06-06T20:47:49.417Z"
+    },
+    {
+      "_id": "593718b047807c0400c89a01",
+      "group": "102",
+      "thing": "\"juegos\":\"overwatch\", \"calificacion\":\"3\"",
+      "__v": 0,
+      "dateAdded": "2017-06-06T21:03:44.578Z"
+    },
+    {
+      "_id": "5937191347807c0400c89a02",
+      "group": "102",
+      "thing": {
+        "nombre juego": "juego",
+        "calificacion": 9
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-06T21:05:23.124Z"
+    },
+    {
+      "_id": "5937195d47807c0400c89a03",
+      "group": "102",
+      "thing": {
+        "nombre juego": "juego",
+        "calificacion": 9
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-06T21:06:37.799Z"
+    },
+    {
+      "_id": "593719bc47807c0400c89a04",
+      "group": "102",
+      "thing": {
+        "juego": "mario",
+        "calificacion": 9
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-06T21:08:12.879Z"
+    },
+    {
+      "_id": "5937281b46d52d04004a04bb",
+      "group": "",
+      "thing": {
+        "juego": "mario",
+        "calificacion": 9
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-06T22:09:31.656Z"
+    },
+    {
+      "_id": "5937281f46d52d04004a04bc",
+      "group": "",
+      "thing": {
+        "juego": "mario",
+        "calificacion": 9
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-06T22:09:35.588Z"
+    },
+    {
+      "_id": "59372ed646d52d04004a04bd",
+      "group": "",
+      "thing": {
+        "juego": "nuevo juego",
+        "fechaLanzamiento": "06/06/2017",
+        "plataforma": [
+          "PC",
+          "Xbox"
+        ],
+        "calificacion": "6"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-06T22:38:14.453Z"
+    },
+    {
+      "_id": "59372f4946d52d04004a04be",
+      "group": "",
+      "thing": {
+        "juego": "nuevo juego",
+        "fechaLanzamiento": "06/06/2017",
+        "plataforma": [
+          "PS4",
+          "Xbox"
+        ],
+        "calificacion": "5"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-06T22:40:09.007Z"
+    },
+    {
+      "_id": "59372f7f46d52d04004a04bf",
+      "group": "",
+      "thing": {
+        "juego": "nuevo juego",
+        "fechaLanzamiento": "06/06/2017",
+        "plataforma": [
+          "PS4",
+          "Xbox"
+        ],
+        "calificacion": "6"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-06T22:41:03.080Z"
+    },
+    {
+      "_id": "59372fc146d52d04004a04c0",
+      "group": "",
+      "thing": {
+        "juego": "nuevo juego",
+        "fechaLanzamiento": "06/06/2017",
+        "plataforma": [
+          "PS4"
+        ],
+        "calificacion": "5"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-06T22:42:09.424Z"
+    },
+    {
+      "_id": "59372fe346d52d04004a04c1",
+      "group": "",
+      "thing": {
+        "juego": "juegoo",
+        "fechaLanzamiento": "05/06/2017",
+        "plataforma": [
+          "PS4",
+          "Xbox"
+        ],
+        "calificacion": "6"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-06T22:42:43.640Z"
+    },
+    {
+      "_id": "59372ff146d52d04004a04c2",
+      "group": "",
+      "thing": {
+        "juego": "juegoo",
+        "fechaLanzamiento": "05/06/2017",
+        "plataforma": [
+          "PS4",
+          "Xbox"
+        ],
+        "calificacion": "6"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-06T22:42:57.705Z"
+    },
+    {
+      "_id": "5937305646d52d04004a04c4",
+      "group": "",
+      "thing": {
+        "juego": "otro juego",
+        "fechaLanzamiento": "01/05/2018",
+        "plataforma": [
+          "PS4",
+          "Xbox"
+        ],
+        "calificacion": "6"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-06T22:44:38.360Z"
+    },
+    {
+      "_id": "593730ad46d52d04004a04c5",
+      "group": "",
+      "thing": {
+        "juego": "otro juego",
+        "fechaLanzamiento": "12/12/2010",
+        "plataforma": [
+          "Xbox",
+          "Otros"
+        ],
+        "calificacion": "7"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-06T22:46:05.964Z"
+    },
+    {
+      "_id": "59383b72527beb040093b307",
+      "group": "180",
+      "thing": "prueba",
+      "__v": 0,
+      "dateAdded": "2017-06-07T17:44:18.601Z"
+    },
+    {
+      "_id": "59383c05527beb040093b308",
+      "group": "102",
+      "thing": "prueba",
+      "__v": 0,
+      "dateAdded": "2017-06-07T17:46:45.395Z"
+    },
+    {
+      "_id": "5938788b527beb040093b377",
+      "group": "",
+      "thing": "HOLA!!!",
+      "__v": 0,
+      "dateAdded": "2017-06-07T22:04:59.773Z"
+    },
+    {
+      "_id": "593878c4527beb040093b378",
+      "group": "",
+      "thing": "sdsad",
+      "__v": 0,
+      "dateAdded": "2017-06-07T22:05:56.402Z"
+    },
+    {
+      "_id": "5938796f527beb040093b379",
+      "group": "120",
+      "thing": "hola",
+      "__v": 0,
+      "dateAdded": "2017-06-07T22:08:47.661Z"
+    },
+    {
+      "_id": "59388356527beb040093b3b0",
+      "group": "120",
+      "thing": "autorefresh",
+      "__v": 0,
+      "dateAdded": "2017-06-07T22:51:02.273Z"
+    },
+    {
+      "_id": "593883c2527beb040093b3b4",
+      "group": "120",
+      "thing": "asdf",
+      "__v": 0,
+      "dateAdded": "2017-06-07T22:52:50.839Z"
+    },
+    {
+      "_id": "59388490527beb040093b3b5",
+      "group": "120",
+      "thing": "2° test",
+      "__v": 0,
+      "dateAdded": "2017-06-07T22:56:16.458Z"
+    },
+    {
+      "_id": "593884a3527beb040093b3b6",
+      "group": "120",
+      "thing": "nueva info",
+      "__v": 0,
+      "dateAdded": "2017-06-07T22:56:35.955Z"
+    },
+    {
+      "_id": "593a6934864d5a0400fe30fd",
+      "group": "8",
+      "thing": "Testeando Rest",
+      "__v": 0,
+      "dateAdded": "2017-06-09T09:24:04.738Z"
+    },
+    {
+      "_id": "593a976fc1026804006c3bd9",
+      "group": "109",
+      "thing": "\"thing\": {\"nombre\":  \"Web Unicen!!!\"}\n",
+      "__v": 0,
+      "dateAdded": "2017-06-09T12:41:19.821Z"
+    },
+    {
+      "_id": "593a9831c1026804006c3bda",
+      "group": "109",
+      "thing": "{\"nombre2\":  \"Web Unicen2!!!\"}\n\n",
+      "__v": 0,
+      "dateAdded": "2017-06-09T12:44:33.747Z"
+    },
+    {
+      "_id": "593a986fc1026804006c3bdb",
+      "group": "109",
+      "thing": "hola capo\n\n",
+      "__v": 0,
+      "dateAdded": "2017-06-09T12:45:35.114Z"
+    },
+    {
+      "_id": "593a9a62c1026804006c3bdc",
+      "group": "109",
+      "thing": "hola capo2",
+      "__v": 0,
+      "dateAdded": "2017-06-09T12:53:54.723Z"
+    },
+    {
+      "_id": "593a9b01c1026804006c3bdd",
+      "group": "109",
+      "thing": "{ \"name\":\"John\", \"age\":30, \"car\":null };",
+      "__v": 0,
+      "dateAdded": "2017-06-09T12:56:33.149Z"
+    },
+    {
+      "_id": "593a9b36c1026804006c3bde",
+      "group": "109",
+      "thing": "{\"name\":\"John\",\"age\":30,\"car\":null}",
+      "__v": 0,
+      "dateAdded": "2017-06-09T12:57:26.359Z"
+    },
+    {
+      "_id": "593af0b7e3423b040080a118",
+      "group": "120",
+      "thing": "nuevo2",
+      "__v": 0,
+      "dateAdded": "2017-06-09T19:02:15.891Z"
+    },
+    {
+      "_id": "593af0c1e3423b040080a119",
+      "group": "100",
+      "thing": "matias1602",
+      "__v": 0,
+      "dateAdded": "2017-06-09T19:02:25.014Z"
+    },
+    {
+      "_id": "593af0c3e3423b040080a11a",
+      "group": "120",
+      "thing": "nuevo3",
+      "__v": 0,
+      "dateAdded": "2017-06-09T19:02:27.579Z"
+    },
+    {
+      "_id": "593af187e3423b040080a11b",
+      "group": "105",
+      "thing": "lorena",
+      "__v": 0,
+      "dateAdded": "2017-06-09T19:05:43.074Z"
+    },
+    {
+      "_id": "593af197e3423b040080a11c",
+      "group": "105",
+      "thing": "web",
+      "__v": 0,
+      "dateAdded": "2017-06-09T19:05:59.254Z"
+    },
+    {
+      "_id": "593af1e0e3423b040080a11d",
+      "group": "25",
+      "thing": "{autor: \"juan\",  libro: \"book\", precio: \"$100\"}",
+      "__v": 0,
+      "dateAdded": "2017-06-09T19:07:12.917Z"
+    },
+    {
+      "_id": "593af4c4e3423b040080a11e",
+      "group": "105",
+      "thing": "guyfyuyug",
+      "__v": 0,
+      "dateAdded": "2017-06-09T19:19:32.843Z"
+    },
+    {
+      "_id": "593af9e7e3423b040080a11f",
+      "group": "125",
+      "thing": "{Autor:[Paula Hawkins,Carlos Ruiz Zafón,Arturo Pérez-Reverte]}",
+      "__v": 0,
+      "dateAdded": "2017-06-09T19:41:27.388Z"
+    },
+    {
+      "_id": "593b29cbe3423b040080a165",
+      "group": "101",
+      "thing": "pelones",
+      "__v": 0,
+      "dateAdded": "2017-06-09T23:05:47.080Z"
+    },
+    {
+      "_id": "593b2d2be3423b040080a167",
+      "group": "101",
+      "thing": "pera",
+      "__v": 0,
+      "dateAdded": "2017-06-09T23:20:11.293Z"
+    },
+    {
+      "_id": "593be8521356d204000f8ca0",
+      "group": "51",
+      "thing": "rucula, mezclada con queso parmesano, tomates cherrys, mozzarella y oregano.",
+      "__v": 0,
+      "dateAdded": "2017-06-10T12:38:42.279Z"
+    },
+    {
+      "_id": "593be8621356d204000f8ca1",
+      "group": "51",
+      "thing": "Lechuga Romana, croutons, hebras de queso parmesano y aderezo Cesar casero. ",
+      "__v": 0,
+      "dateAdded": "2017-06-10T12:38:58.570Z"
+    },
+    {
+      "_id": "593be8761356d204000f8ca2",
+      "group": "51",
+      "thing": "tomates maduros. mozzarella de búfala, albahaca fresca y aceitunas (opcional) ",
+      "__v": 0,
+      "dateAdded": "2017-06-10T12:39:18.287Z"
+    },
+    {
+      "_id": "593c223fb69fc40400f1d32e",
+      "group": "91",
+      "thing": {
+        "pais": "Argentina",
+        "ciudad": "Misiones",
+        "precioI": "3000",
+        "precioP": "1500"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-10T16:45:51.816Z"
+    },
+    {
+      "_id": "593c3fd278cd630400c109b6",
+      "group": "112",
+      "thing": "10",
+      "__v": 0,
+      "dateAdded": "2017-06-10T18:52:02.797Z"
+    },
+    {
+      "_id": "593c8a638cce920400803b37",
+      "group": "101",
+      "thing": "rucula",
+      "__v": 0,
+      "dateAdded": "2017-06-11T00:10:11.821Z"
+    },
+    {
+      "_id": "593c917f8cce920400803b3b",
+      "group": "101",
+      "thing": "cebolla",
+      "__v": 0,
+      "dateAdded": "2017-06-11T00:40:31.059Z"
+    },
+    {
+      "_id": "593ca22e8cce920400803b53",
+      "group": "101",
+      "thing": {
+        "articulo": "naranja",
+        "precio": "34"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-11T01:51:42.914Z"
+    },
+    {
+      "_id": "593ca5648cce920400803b60",
+      "group": "101",
+      "thing": {
+        "articulo": "pan",
+        "precio": "20"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-11T02:05:24.591Z"
+    },
+    {
+      "_id": "593ca5cf8cce920400803b61",
+      "group": "101",
+      "thing": {
+        "articulo": "Ravioles",
+        "precio": "98",
+        "lugar": "Pastas De Carlo"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-11T02:07:11.550Z"
+    },
+    {
+      "_id": "593caec48cce920400803b62",
+      "group": "101",
+      "thing": {
+        "articulo": "Pollo",
+        "precio": "59",
+        "lugar": "Carniceria del Chechu"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-11T02:45:24.334Z"
+    },
+    {
+      "_id": "593cb4558cce920400803b66",
+      "group": "124",
+      "thing": "t5t4",
+      "__v": 0,
+      "dateAdded": "2017-06-11T03:09:09.875Z"
+    },
+    {
+      "_id": "593cbe068cce920400803b67",
+      "group": "91",
+      "thing": {
+        "pais": "Francia",
+        "ciudad": "Paris",
+        "precioI": "19000",
+        "precioP": "17500"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-11T03:50:30.187Z"
+    },
+    {
+      "_id": "593cc7348cce920400803b68",
+      "group": "101",
+      "thing": {
+        "articulo": "Luz",
+        "precio": "145",
+        "lugar": "Usina"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-11T04:29:40.960Z"
+    },
+    {
+      "_id": "593cc8128cce920400803b69",
+      "group": "101",
+      "thing": {
+        "articulo": "Gas",
+        "precio": "180",
+        "lugar": "Cammuzi"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-11T04:33:22.602Z"
+    },
+    {
+      "_id": "593d9a9f7eaa12040053ad19",
+      "group": "678",
+      "thing": "kiku",
+      "__v": 0,
+      "dateAdded": "2017-06-11T19:31:43.807Z"
+    },
+    {
+      "_id": "593d9aa57eaa12040053ad1a",
+      "group": "678",
+      "thing": "kikufhtdht",
+      "__v": 0,
+      "dateAdded": "2017-06-11T19:31:49.111Z"
+    },
+    {
+      "_id": "593d9af67eaa12040053ad1b",
+      "group": "760",
+      "thing": "ddhkh",
+      "__v": 0,
+      "dateAdded": "2017-06-11T19:33:10.317Z"
+    },
+    {
+      "_id": "593d9e1e7eaa12040053ad1c",
+      "group": "101",
+      "thing": {
+        "articulo": "Carne",
+        "precio": "54",
+        "lugar": "Carniceria del Pepe"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-11T19:46:38.107Z"
+    },
+    {
+      "_id": "593da2037eaa12040053ad1d",
+      "group": "456",
+      "thing": "lore",
+      "__v": 0,
+      "dateAdded": "2017-06-11T20:03:15.956Z"
+    },
+    {
+      "_id": "593da4597eaa12040053ad1e",
+      "group": "456",
+      "thing": {
+        "menu": "lore",
+        "ingrediente": "tontolona",
+        "costo": "2"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-11T20:13:13.979Z"
+    },
+    {
+      "_id": "593da76a7eaa12040053ad1f",
+      "group": "455",
+      "thing": {
+        "menu": "lore",
+        "ingrediente": "asd",
+        "costo": "67"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-11T20:26:18.255Z"
+    },
+    {
+      "_id": "593da9397eaa12040053ad20",
+      "group": "457",
+      "thing": {
+        "menu": "milanga",
+        "ingrediente": "la milanga mas posta de todo tandil",
+        "costo": "100"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-11T20:34:01.120Z"
+    },
+    {
+      "_id": "593da9657eaa12040053ad21",
+      "group": "457",
+      "thing": {
+        "menu": "papas",
+        "ingrediente": "asd",
+        "costo": "250"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-11T20:34:45.968Z"
+    },
+    {
+      "_id": "593daa157eaa12040053ad22",
+      "group": "101",
+      "thing": {
+        "articulo": "Aceite",
+        "precio": "19",
+        "lugar": "Dia"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-11T20:37:41.315Z"
+    },
+    {
+      "_id": "593dab767eaa12040053ad23",
+      "group": "101",
+      "thing": {
+        "articulo": "Pollo",
+        "precio": "75",
+        "lugar": "Monarca"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-11T20:43:34.370Z"
+    },
+    {
+      "_id": "593dac5a7eaa12040053ad24",
+      "group": "101",
+      "thing": {
+        "articulo": "Acelga",
+        "precio": "30",
+        "lugar": "Mandale Fruta"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-11T20:47:22.858Z"
+    },
+    {
+      "_id": "593dace17eaa12040053ad25",
+      "group": "101",
+      "thing": {
+        "articulo": "Remedios",
+        "precio": "349",
+        "lugar": "Farmacia Del Centro"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-11T20:49:37.856Z"
+    },
+    {
+      "_id": "593db1367eaa12040053ad26",
+      "group": "101",
+      "thing": {
+        "articulo": "Pan",
+        "precio": "23",
+        "lugar": "Le Baguette"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-11T21:08:06.948Z"
+    },
+    {
+      "_id": "593db1f07eaa12040053ad27",
+      "group": "101",
+      "thing": {
+        "articulo": "Harina",
+        "precio": "10",
+        "lugar": "Chino"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-11T21:11:12.342Z"
+    },
+    {
+      "_id": "593db6377eaa12040053ad38",
+      "group": "101",
+      "thing": {
+        "articulo": "Gas",
+        "precio": "34",
+        "lugar": "Cammuzi"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-11T21:29:27.190Z"
+    },
+    {
+      "_id": "593db6cd7eaa12040053ad3a",
+      "group": "101",
+      "thing": {
+        "articulo": "Tomate",
+        "precio": "34",
+        "lugar": "Monarca"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-11T21:31:57.019Z"
+    },
+    {
+      "_id": "593dd5967eaa12040053ad53",
+      "group": "101",
+      "thing": {
+        "articulo": "Lapiz",
+        "precio": "23",
+        "lugar": "Libreria Nancy"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-11T23:43:18.524Z"
+    },
+    {
+      "_id": "593dd6807eaa12040053ad54",
+      "group": "101",
+      "thing": {
+        "articulo": "Escoba",
+        "precio": "23",
+        "lugar": "Ecologica"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-11T23:47:12.762Z"
+    },
+    {
+      "_id": "593dd6d77eaa12040053ad55",
+      "group": "101",
+      "thing": {
+        "articulo": "Tela cortina",
+        "precio": "98",
+        "lugar": "Tapiceria Tandil"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-11T23:48:39.896Z"
+    },
+    {
+      "_id": "593dd79a7eaa12040053ad56",
+      "group": "101",
+      "thing": {
+        "articulo": "Madera",
+        "precio": "3400",
+        "lugar": "Carpinteria"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-11T23:51:54.025Z"
+    },
+    {
+      "_id": "593dd7c07eaa12040053ad57",
+      "group": "101",
+      "thing": {
+        "articulo": "Plantas",
+        "precio": "123",
+        "lugar": "Floreria"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-11T23:52:32.136Z"
+    },
+    {
+      "_id": "593dd8177eaa12040053ad58",
+      "group": "101",
+      "thing": {
+        "articulo": "Rejilla",
+        "precio": "12",
+        "lugar": "Bazar"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-11T23:53:59.867Z"
+    },
+    {
+      "_id": "593ddb2e7eaa12040053ad59",
+      "group": "101",
+      "thing": {
+        "articulo": "Computadora",
+        "precio": "9080",
+        "lugar": "Fravega"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-12T00:07:10.292Z"
+    },
+    {
+      "_id": "593ddb8f7eaa12040053ad5a",
+      "group": "101",
+      "thing": {
+        "articulo": "Libro",
+        "precio": "908",
+        "lugar": "Librería"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-12T00:08:47.483Z"
+    },
+    {
+      "_id": "593ddba87eaa12040053ad5b",
+      "group": "101",
+      "thing": {
+        "articulo": "Diario",
+        "precio": "34",
+        "lugar": "Kiosko"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-12T00:09:12.463Z"
+    },
+    {
+      "_id": "593ddfca7eaa12040053ad5c",
+      "group": "101",
+      "thing": {
+        "articulo": "Pantalon",
+        "precio": "1200",
+        "lugar": "Casa Ropero"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-12T00:26:50.409Z"
+    },
+    {
+      "_id": "593de2177eaa12040053ad5d",
+      "group": "120",
+      "thing": "matias trabaja isauro ",
+      "__v": 0,
+      "dateAdded": "2017-06-12T00:36:39.984Z"
+    },
+    {
+      "_id": "593de8627eaa12040053ad6a",
+      "group": "101",
+      "thing": {
+        "articulo": "Yerba mate",
+        "precio": "45",
+        "lugar": "Vea"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-12T01:03:30.034Z"
+    },
+    {
+      "_id": "593deab87eaa12040053ad6d",
+      "group": "101",
+      "thing": {
+        "articulo": "Escoba",
+        "precio": "23",
+        "lugar": "Bazar"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-12T01:13:28.763Z"
+    },
+    {
+      "_id": "593ed7d9abbadb0400f5ee38",
+      "group": "101",
+      "thing": {
+        "menu": "jgfsak",
+        "ingrediente": "lkhlk",
+        "costo": "nk"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-12T18:05:13.252Z"
+    },
+    {
+      "_id": "593ed7d9abbadb0400f5ee39",
+      "group": "101",
+      "thing": {
+        "menu": "jgfsak",
+        "ingrediente": "lkhlk",
+        "costo": "nk"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-12T18:05:13.607Z"
+    },
+    {
+      "_id": "593edbc0abbadb0400f5ee3a",
+      "group": "536",
+      "thing": {
+        "menu": "jkg",
+        "ingrediente": "hkb;kj",
+        "costo": "jlklklk"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-12T18:21:52.135Z"
+    },
+    {
+      "_id": "593edecaabbadb0400f5ee3b",
+      "group": "536",
+      "thing": {
+        "plato": "fsd",
+        "ingredientes": "fdsa",
+        "precio": "fdgdf"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-12T18:34:50.145Z"
+    },
+    {
+      "_id": "593ef975abbadb0400f5ee61",
+      "group": "59",
+      "thing": {
+        "nombre": "BUSCA CON JQUERY",
+        "email": "BUSCA CON JQUERY"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-12T20:28:37.460Z"
+    },
+    {
+      "_id": "593ef9c9abbadb0400f5ee62",
+      "group": "59",
+      "thing": {
+        "nombre": "BUSCA CON JQUERY",
+        "email": "BUSCA CON JQUERY"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-12T20:30:01.879Z"
+    },
+    {
+      "_id": "593efd7aabbadb0400f5ee7f",
+      "group": "134",
+      "thing": {
+        "grupo": "NCT",
+        "nombre": "Yuta",
+        "img": "yuta.jpg"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-12T20:45:46.438Z"
+    },
+    {
+      "_id": "593efee0abbadb0400f5ee80",
+      "group": "28",
+      "thing": {
+        "producto": "consola",
+        "descripcion": "consola de sonido",
+        "precio": "20"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-12T20:51:44.947Z"
+    },
+    {
+      "_id": "593f16c5278df10400c48ab4",
+      "group": "hola",
+      "thing": "hola",
+      "__v": 0,
+      "dateAdded": "2017-06-12T22:33:41.911Z"
+    },
+    {
+      "_id": "593f170d278df10400c48ab5",
+      "group": "ñandu",
+      "thing": "ñandu",
+      "__v": 0,
+      "dateAdded": "2017-06-12T22:34:53.580Z"
+    },
+    {
+      "_id": "593f1713278df10400c48ab6",
+      "group": "ñandu",
+      "thing": "nianandu",
+      "__v": 0,
+      "dateAdded": "2017-06-12T22:34:59.967Z"
+    },
+    {
+      "_id": "593f1715278df10400c48ab7",
+      "group": "ñandu",
+      "thing": "nianandu",
+      "__v": 0,
+      "dateAdded": "2017-06-12T22:35:01.509Z"
+    },
+    {
+      "_id": "593f1753278df10400c48ab8",
+      "group": "130",
+      "thing": "ñandu",
+      "__v": 0,
+      "dateAdded": "2017-06-12T22:36:03.946Z"
+    },
+    {
+      "_id": "593f1e29278df10400c48ab9",
+      "group": "101",
+      "thing": {
+        "articulo": "Combustible",
+        "precio": "300",
+        "lugar": "YPF"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-12T23:05:13.857Z"
+    },
+    {
+      "_id": "593f2131278df10400c48aba",
+      "group": "4352423232323",
+      "thing": {
+        "nombre": "Web Unicen!!!"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-12T23:18:09.411Z"
+    },
+    {
+      "_id": "593f266b278df10400c48abb",
+      "group": "59",
+      "thing": {
+        "nombre": "BUSCA CON JQUERY",
+        "email": "BUSCA CON JQUERY"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-12T23:40:27.990Z"
+    },
+    {
+      "_id": "593f278b278df10400c48abc",
+      "group": "101",
+      "thing": {
+        "articulo": "Soda",
+        "precio": "45",
+        "lugar": "Mercado del Pueblo"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-12T23:45:15.722Z"
+    },
+    {
+      "_id": "593f284f278df10400c48abd",
+      "group": "101",
+      "thing": {
+        "articulo": "Desodorante",
+        "precio": "34",
+        "lugar": "Mercado"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-12T23:48:31.740Z"
+    },
+    {
+      "_id": "593f2934278df10400c48abe",
+      "group": "59",
+      "thing": {
+        "nombre": "BUSCA CON JQUERY",
+        "mail": "BUSCA CON JQUERY",
+        "telefono": "BUSCA CON JQUERY",
+        "consulta": "BUSCA CON JQUERY"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-12T23:52:20.323Z"
+    },
+    {
+      "_id": "593f2e33278df10400c48abf",
+      "group": "159",
+      "thing": {
+        "nombre": "BUSCA CON JQUERY",
+        "email": "BUSCA CON JQUERY"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-13T00:13:39.595Z"
+    },
+    {
+      "_id": "593f2eb9278df10400c48ac0",
+      "group": "159",
+      "thing": {
+        "nombre": "#nombre",
+        "email": "#mail"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-13T00:15:53.659Z"
+    },
+    {
+      "_id": "593f2ec8278df10400c48ac1",
+      "group": "159",
+      "thing": {
+        "nombre": "#nombre",
+        "email": "#mail"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-13T00:16:08.515Z"
+    },
+    {
+      "_id": "593f3285278df10400c48ac5",
+      "group": "359",
+      "thing": {
+        "nombre": "BUSCA CON JQUERY",
+        "email": "BUSCA CON JQUERY",
+        "comentar": "hola"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-13T00:32:05.615Z"
+    },
+    {
+      "_id": "593f32e4278df10400c48ac6",
+      "group": "359",
+      "thing": {
+        "nombre": "#nombre",
+        "email": "#mail",
+        "comentar": "hola"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-13T00:33:40.236Z"
+    },
+    {
+      "_id": "593f3562278df10400c48ac7",
+      "group": "101",
+      "thing": {
+        "articulo": "Silla",
+        "precio": "345",
+        "lugar": "Carpinteria"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-13T00:44:18.654Z"
+    },
+    {
+      "_id": "593f360e278df10400c48ac8",
+      "group": "359",
+      "thing": {
+        "nombre": "hola",
+        "email": "hola",
+        "comentar": "hola"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-13T00:47:10.546Z"
+    },
+    {
+      "_id": "593f3685278df10400c48ac9",
+      "group": "259",
+      "thing": {
+        "nombre": "BUSCA CON JQUERY",
+        "mail": "BUSCA CON JQUERY",
+        "telefono": "BUSCA CON JQUERY",
+        "consulta": "BUSCA CON JQUERY"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-13T00:49:09.798Z"
+    },
+    {
+      "_id": "593f3706278df10400c48aca",
+      "group": "101",
+      "thing": {
+        "articulo": "Carne",
+        "precio": "45",
+        "lugar": "Carniceria"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-13T00:51:18.166Z"
+    },
+    {
+      "_id": "593f393f278df10400c48acb",
+      "group": "101",
+      "thing": {
+        "articulo": "Fideos",
+        "precio": "21",
+        "lugar": "Mercado"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-13T01:00:47.992Z"
+    },
+    {
+      "_id": "593f3d3f278df10400c48acc",
+      "group": "101",
+      "thing": {
+        "articulo": "Agua",
+        "precio": "234",
+        "lugar": "Sanitaria"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-13T01:17:51.099Z"
+    },
+    {
+      "_id": "593f46c5278df10400c48ad2",
+      "group": "130",
+      "thing": "probando lucho",
+      "__v": 0,
+      "dateAdded": "2017-06-13T01:58:29.741Z"
+    },
+    {
+      "_id": "59402e3b1ea2ba04004b58e7",
+      "group": "259",
+      "thing": {
+        "nombre": "BUSCA CON JQUERY",
+        "mail": "BUSCA CON JQUERY",
+        "telefono": "BUSCA CON JQUERY",
+        "consulta": "BUSCA CON JQUERY"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-13T18:26:03.771Z"
+    },
+    {
+      "_id": "594033131ea2ba04004b58e8",
+      "group": "101",
+      "thing": {
+        "articulo": "Pescado",
+        "precio": "78",
+        "lugar": "Pescaderia Marisol"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-13T18:46:43.992Z"
+    },
+    {
+      "_id": "594033f81ea2ba04004b58e9",
+      "group": "101",
+      "thing": {
+        "articulo": "Rulemanes",
+        "precio": "234",
+        "lugar": "Ferreteria"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-13T18:50:32.363Z"
+    },
+    {
+      "_id": "594040f91ea2ba04004b58ec",
+      "group": "101",
+      "thing": {
+        "articulo": "Carne",
+        "precio": "123",
+        "lugar": "Frigorifico"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-13T19:46:01.259Z"
+    },
+    {
+      "_id": "594063aa1ea2ba04004b58ee",
+      "group": "130",
+      "thing": "pedazo de ñandu",
+      "__v": 0,
+      "dateAdded": "2017-06-13T22:14:02.948Z"
+    },
+    {
+      "_id": "594068361ea2ba04004b58ef",
+      "group": "130",
+      "thing": {
+        "marca": "dgfdgdfgdfg",
+        "modelo": "aaaaaaaaaa",
+        "memoria": "sssssssssssss",
+        "frecuencia": "ddddddddddddd",
+        "banda": "ddddddddddddd",
+        "consumo": "dddddddddddd"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-13T22:33:26.387Z"
+    },
+    {
+      "_id": "594069f71ea2ba04004b58f1",
+      "group": "101",
+      "thing": {
+        "articulo": "Miel",
+        "precio": "23",
+        "lugar": "Mercado"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-13T22:40:55.472Z"
+    },
+    {
+      "_id": "59406a401ea2ba04004b58f2",
+      "group": "101",
+      "thing": {
+        "articulo": "Jugo",
+        "precio": "56",
+        "lugar": "Mercado"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-13T22:42:08.919Z"
+    },
+    {
+      "_id": "59406a701ea2ba04004b58f3",
+      "group": "101",
+      "thing": {
+        "articulo": "Sacacorcho",
+        "precio": "45",
+        "lugar": "Ferreteria"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-13T22:42:56.859Z"
+    },
+    {
+      "_id": "59406ea81ea2ba04004b58f4",
+      "group": "101",
+      "__v": 0,
+      "dateAdded": "2017-06-13T23:00:56.099Z"
+    },
+    {
+      "_id": "59406ea81ea2ba04004b58f5",
+      "group": "101",
+      "__v": 0,
+      "dateAdded": "2017-06-13T23:00:56.511Z"
+    },
+    {
+      "_id": "59406ea81ea2ba04004b58f6",
+      "group": "101",
+      "__v": 0,
+      "dateAdded": "2017-06-13T23:00:56.522Z"
+    },
+    {
+      "_id": "59406ea81ea2ba04004b58f7",
+      "group": "101",
+      "__v": 0,
+      "dateAdded": "2017-06-13T23:00:56.529Z"
+    },
+    {
+      "_id": "59406ed11ea2ba04004b58f8",
+      "group": "101",
+      "thing": {
+        "articulo": "Caña de Pesca",
+        "precio": "34",
+        "lugar": "Camping"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-13T23:01:37.245Z"
+    },
+    {
+      "_id": "594070321ea2ba04004b58f9",
+      "group": "101",
+      "__v": 0,
+      "dateAdded": "2017-06-13T23:07:30.521Z"
+    },
+    {
+      "_id": "594070321ea2ba04004b58fa",
+      "group": "101",
+      "__v": 0,
+      "dateAdded": "2017-06-13T23:07:30.551Z"
+    },
+    {
+      "_id": "594070321ea2ba04004b58fb",
+      "group": "101",
+      "__v": 0,
+      "dateAdded": "2017-06-13T23:07:30.553Z"
+    },
+    {
+      "_id": "5940704e1ea2ba04004b58fc",
+      "group": "101",
+      "thing": {
+        "articulo": "Carne",
+        "precio": "234",
+        "lugar": "Carniceria"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-13T23:07:58.894Z"
+    },
+    {
+      "_id": "5940729e1ea2ba04004b58ff",
+      "group": "130",
+      "thing": {
+        "marca": "NVIDIA",
+        "modelo": "GTX 1080",
+        "memoria": "8 GB GDDR5",
+        "frecuencia": "1800 MHZ",
+        "banda": "300 Gb/s",
+        "consumo": "150 Watts"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-13T23:17:50.472Z"
+    },
+    {
+      "_id": "594078151ea2ba04004b5905",
+      "group": "130",
+      "thing": {
+        "marca": "NVIDIA",
+        "modelo": "GTX 170",
+        "memoria": "16 GB GDDR5",
+        "frecuencia": "200 MHZ",
+        "banda": "400 Gb/s",
+        "consumo": "150 W"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-13T23:41:09.718Z"
+    },
+    {
+      "_id": "5940f7bf2409f40400ce0d3b",
+      "group": "57",
+      "thing": "actualizacion",
+      "__v": 0,
+      "dateAdded": "2017-06-14T08:45:51.015Z"
+    },
+    {
+      "_id": "59412dbcf11eba04003b2804",
+      "group": "101",
+      "__v": 0,
+      "dateAdded": "2017-06-14T12:36:12.838Z"
+    },
+    {
+      "_id": "59412dbcf11eba04003b2805",
+      "group": "101",
+      "__v": 0,
+      "dateAdded": "2017-06-14T12:36:12.851Z"
+    },
+    {
+      "_id": "59412dbcf11eba04003b2806",
+      "group": "101",
+      "__v": 0,
+      "dateAdded": "2017-06-14T12:36:12.852Z"
+    },
+    {
+      "_id": "59412ea6f11eba04003b2807",
+      "group": "101",
+      "__v": 0,
+      "dateAdded": "2017-06-14T12:40:06.172Z"
+    },
+    {
+      "_id": "59412ea6f11eba04003b2808",
+      "group": "101",
+      "__v": 0,
+      "dateAdded": "2017-06-14T12:40:06.174Z"
+    },
+    {
+      "_id": "59412ea6f11eba04003b2809",
+      "group": "101",
+      "__v": 0,
+      "dateAdded": "2017-06-14T12:40:06.175Z"
+    },
+    {
+      "_id": "594130fff11eba04003b280a",
+      "group": "101",
+      "__v": 0,
+      "dateAdded": "2017-06-14T12:50:07.685Z"
+    },
+    {
+      "_id": "594130fff11eba04003b280b",
+      "group": "101",
+      "__v": 0,
+      "dateAdded": "2017-06-14T12:50:07.688Z"
+    },
+    {
+      "_id": "594130fff11eba04003b280c",
+      "group": "101",
+      "__v": 0,
+      "dateAdded": "2017-06-14T12:50:07.692Z"
+    },
+    {
+      "_id": "5941311af11eba04003b280d",
+      "group": "101",
+      "thing": {
+        "articulo": "Fideo",
+        "precio": "23",
+        "lugar": "Mercado"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-14T12:50:34.841Z"
+    },
+    {
+      "_id": "59413184f11eba04003b280e",
+      "group": "101",
+      "__v": 0,
+      "dateAdded": "2017-06-14T12:52:20.255Z"
+    },
+    {
+      "_id": "59413184f11eba04003b280f",
+      "group": "101",
+      "__v": 0,
+      "dateAdded": "2017-06-14T12:52:20.262Z"
+    },
+    {
+      "_id": "59413184f11eba04003b2810",
+      "group": "101",
+      "__v": 0,
+      "dateAdded": "2017-06-14T12:52:20.283Z"
+    },
+    {
+      "_id": "594131d3f11eba04003b2811",
+      "group": "101",
+      "__v": 0,
+      "dateAdded": "2017-06-14T12:53:39.834Z"
+    },
+    {
+      "_id": "594131d3f11eba04003b2812",
+      "group": "101",
+      "__v": 0,
+      "dateAdded": "2017-06-14T12:53:39.840Z"
+    },
+    {
+      "_id": "594131d3f11eba04003b2813",
+      "group": "101",
+      "__v": 0,
+      "dateAdded": "2017-06-14T12:53:39.841Z"
+    },
+    {
+      "_id": "59413329f11eba04003b2814",
+      "group": "101",
+      "__v": 0,
+      "dateAdded": "2017-06-14T12:59:21.126Z"
+    },
+    {
+      "_id": "59413329f11eba04003b2815",
+      "group": "101",
+      "__v": 0,
+      "dateAdded": "2017-06-14T12:59:21.204Z"
+    },
+    {
+      "_id": "59413329f11eba04003b2816",
+      "group": "101",
+      "__v": 0,
+      "dateAdded": "2017-06-14T12:59:21.235Z"
+    },
+    {
+      "_id": "594135cff11eba04003b2817",
+      "group": "101",
+      "thing": {
+        "articulo": "Cebolla",
+        "precio": "12",
+        "lugar": "Verduleria Pepe"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-14T13:10:39.044Z"
+    },
+    {
+      "_id": "59413887f11eba04003b2818",
+      "group": "101",
+      "thing": {
+        "articulo": "Carne",
+        "precio": "123",
+        "lugar": "Carniceria"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-14T13:22:15.950Z"
+    },
+    {
+      "_id": "59413894f11eba04003b2819",
+      "group": "101",
+      "thing": {
+        "articulo": "Caña de pesca",
+        "precio": "123",
+        "lugar": "Casa de Camping"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-14T13:22:28.814Z"
+    },
+    {
+      "_id": "594138a2f11eba04003b281a",
+      "group": "101",
+      "thing": {
+        "articulo": "Cebolla",
+        "precio": "123",
+        "lugar": "Verduleria Pepe"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-14T13:22:42.411Z"
+    },
+    {
+      "_id": "5941390af11eba04003b281b",
+      "group": "101",
+      "thing": {
+        "articulo": "Pescado",
+        "precio": "123",
+        "lugar": "Pescaderia Marisol"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-14T13:24:26.403Z"
+    },
+    {
+      "_id": "59413a93f11eba04003b281c",
+      "group": "101",
+      "thing": {
+        "articulo": "Tomate",
+        "precio": "123",
+        "lugar": "Verduleria Pepe"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-14T13:30:59.044Z"
+    },
+    {
+      "_id": "59413ab8f11eba04003b281d",
+      "group": "101",
+      "thing": {
+        "articulo": "Miel",
+        "precio": "123",
+        "lugar": "Mercado Raúl"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-14T13:31:36.600Z"
+    },
+    {
+      "_id": "59413b99f11eba04003b281e",
+      "group": "101",
+      "thing": {
+        "articulo": "Morron",
+        "precio": "23",
+        "lugar": "Verduleria Carlos"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-14T13:35:21.647Z"
+    },
+    {
+      "_id": "59413d76f11eba04003b281f",
+      "group": "101",
+      "thing": {
+        "articulo": "Jabon",
+        "precio": "23",
+        "lugar": "Mercado"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-14T13:43:18.573Z"
+    },
+    {
+      "_id": "59413ed2f11eba04003b2820",
+      "group": "101",
+      "thing": {
+        "articulo": "Pera",
+        "precio": 123,
+        "lugar": "Mercado"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-14T13:49:06.121Z"
+    },
+    {
+      "_id": "59413ed2f11eba04003b2821",
+      "group": "101",
+      "thing": {
+        "articulo": "Pera",
+        "precio": 123,
+        "lugar": "Mercado"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-14T13:49:06.130Z"
+    },
+    {
+      "_id": "59413ed2f11eba04003b2822",
+      "group": "101",
+      "thing": {
+        "articulo": "Pera",
+        "precio": 123,
+        "lugar": "Mercado"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-14T13:49:06.159Z"
+    },
+    {
+      "_id": "59413f93f11eba04003b2823",
+      "group": "101",
+      "thing": {
+        "articulo": "Pera",
+        "precio": 123,
+        "lugar": "Mercado"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-14T13:52:19.450Z"
+    },
+    {
+      "_id": "59413f93f11eba04003b2824",
+      "group": "101",
+      "thing": {
+        "articulo": "Pera",
+        "precio": 124,
+        "lugar": "Mercado"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-14T13:52:19.460Z"
+    },
+    {
+      "_id": "59413f93f11eba04003b2825",
+      "group": "101",
+      "thing": {
+        "articulo": "Pera",
+        "precio": 125,
+        "lugar": "Mercado"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-14T13:52:19.464Z"
+    },
+    {
+      "_id": "59413fa6f11eba04003b2826",
+      "group": "101",
+      "thing": {
+        "articulo": "Jugo",
+        "precio": "12",
+        "lugar": "Mercado"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-14T13:52:38.311Z"
+    },
+    {
+      "_id": "5941400bf11eba04003b2827",
+      "group": "101",
+      "thing": {
+        "articulo": "Pera",
+        "precio": 123,
+        "lugar": "Mercado"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-14T13:54:19.999Z"
+    },
+    {
+      "_id": "5941400cf11eba04003b2828",
+      "group": "101",
+      "thing": {
+        "articulo": "Pera",
+        "precio": 124,
+        "lugar": "Mercado"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-14T13:54:20.070Z"
+    },
+    {
+      "_id": "5941400cf11eba04003b2829",
+      "group": "101",
+      "thing": {
+        "articulo": "Pera",
+        "precio": 125,
+        "lugar": "Mercado"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-14T13:54:20.097Z"
+    },
+    {
+      "_id": "59414d18f11eba04003b282c",
+      "group": "101",
+      "thing": {
+        "articulo": "Pera",
+        "precio": 123,
+        "lugar": "Mercado"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-14T14:50:00.117Z"
+    },
+    {
+      "_id": "59414d18f11eba04003b282d",
+      "group": "101",
+      "thing": {
+        "articulo": "Pera",
+        "precio": 125,
+        "lugar": "Mercado"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-14T14:50:00.124Z"
+    },
+    {
+      "_id": "59414d18f11eba04003b282e",
+      "group": "101",
+      "thing": {
+        "articulo": "Pera",
+        "precio": 124,
+        "lugar": "Mercado"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-14T14:50:00.125Z"
+    },
+    {
+      "_id": "59414d21f11eba04003b282f",
+      "group": "101",
+      "thing": {
+        "articulo": "Pera",
+        "precio": 123,
+        "lugar": "Mercado"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-14T14:50:09.364Z"
+    },
+    {
+      "_id": "59414d21f11eba04003b2830",
+      "group": "101",
+      "thing": {
+        "articulo": "Pera",
+        "precio": 125,
+        "lugar": "Mercado"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-14T14:50:09.415Z"
+    },
+    {
+      "_id": "59414d21f11eba04003b2831",
+      "group": "101",
+      "thing": {
+        "articulo": "Pera",
+        "precio": 124,
+        "lugar": "Mercado"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-14T14:50:09.445Z"
+    },
+    {
+      "_id": "59414df7f11eba04003b2832",
+      "group": "101",
+      "thing": {
+        "articulo": "Pera",
+        "precio": 123,
+        "lugar": "Mercado"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-14T14:53:43.087Z"
+    },
+    {
+      "_id": "59414df7f11eba04003b2833",
+      "group": "101",
+      "thing": {
+        "articulo": "Pera",
+        "precio": 124,
+        "lugar": "Mercado"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-14T14:53:43.153Z"
+    },
+    {
+      "_id": "59414df7f11eba04003b2834",
+      "group": "101",
+      "thing": {
+        "articulo": "Pera",
+        "precio": 125,
+        "lugar": "Mercado"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-14T14:53:43.158Z"
+    },
+    {
+      "_id": "59414e09f11eba04003b2835",
+      "group": "101",
+      "thing": {
+        "articulo": "Pera",
+        "precio": 123,
+        "lugar": "Mercado"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-14T14:54:01.568Z"
+    },
+    {
+      "_id": "59414e09f11eba04003b2836",
+      "group": "101",
+      "thing": {
+        "articulo": "Pera",
+        "precio": 124,
+        "lugar": "Mercado"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-14T14:54:01.600Z"
+    },
+    {
+      "_id": "59417e84f11eba04003b284b",
+      "group": "359",
+      "thing": {
+        "nombre": "#resultado",
+        "email": "#resultado",
+        "comentar": "#resultado"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-14T18:20:52.828Z"
+    },
+    {
+      "_id": "59417f75f11eba04003b284c",
+      "group": "359",
+      "thing": {
+        "nombre": "#resultado",
+        "email": "#resultado",
+        "comentar": "#resultado"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-14T18:24:53.396Z"
+    },
+    {
+      "_id": "59417fa8f11eba04003b284d",
+      "group": "359",
+      "thing": {
+        "nombre": "#resultado",
+        "email": "#resultado",
+        "comentar": "#resultado"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-14T18:25:44.260Z"
+    },
+    {
+      "_id": "59417fc2f11eba04003b284e",
+      "group": "359",
+      "thing": {
+        "nombre": "#nombre",
+        "email": "#resultado",
+        "comentar": "#resultado"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-14T18:26:10.084Z"
+    },
+    {
+      "_id": "594181fef11eba04003b284f",
+      "group": "359",
+      "thing": {
+        "nombre": "#nombre",
+        "email": "#resultado",
+        "comentar": "#resultado"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-14T18:35:42.512Z"
+    },
+    {
+      "_id": "59418260f11eba04003b2850",
+      "group": "359",
+      "thing": {
+        "nombre": "#nombre",
+        "email": "#resultado",
+        "comentar": "#resultado"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-14T18:37:20.917Z"
+    },
+    {
+      "_id": "5941839af11eba04003b2852",
+      "group": "359",
+      "__v": 0,
+      "dateAdded": "2017-06-14T18:42:34.339Z"
+    },
+    {
+      "_id": "59418455f11eba04003b2854",
+      "group": "359",
+      "__v": 0,
+      "dateAdded": "2017-06-14T18:45:41.828Z"
+    },
+    {
+      "_id": "594196adf11eba04003b2861",
+      "group": "25",
+      "thing": "{\n\"status\":OK;\n\"informacion\":[\n{\n\" Titulo\":\n  \" Autor\":\n  \"  Editorial\":\n   \" Precio actual\":\n    \" Semanas en la lista\":\n        \n",
+      "__v": 0,
+      "dateAdded": "2017-06-14T20:03:57.421Z"
+    },
+    {
+      "_id": "594196fdf11eba04003b2862",
+      "group": "122",
+      "thing": "\"Status\": \"ok\";\n\"información\": [\n\"-id\":\n\"group\":\n\"thing\": \n\"--v\":\n\"dateAdded\":\n}",
+      "__v": 0,
+      "dateAdded": "2017-06-14T20:05:17.911Z"
+    },
+    {
+      "_id": "5941f88c05642404002ef51e",
+      "group": "44",
+      "thing": "estamos probando",
+      "__v": 0,
+      "dateAdded": "2017-06-15T03:01:32.216Z"
+    },
+    {
+      "_id": "59427f91e75d6204008ba07b",
+      "group": "6",
+      "thing": {
+        "articulo": "Pera",
+        "precio": 124,
+        "lugar": "Mercado"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-15T12:37:37.800Z"
+    },
+    {
+      "_id": "59427fc8e75d6204008ba07c",
+      "group": "6",
+      "thing": {
+        "articulo": "Limon",
+        "precio": "23",
+        "lugar": "Verduleria Pepe"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-15T12:38:32.258Z"
+    },
+    {
+      "_id": "5942802ee75d6204008ba07d",
+      "group": "6",
+      "thing": {
+        "articulo": "Pera",
+        "precio": 123,
+        "lugar": "Mercado"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-15T12:40:14.060Z"
+    },
+    {
+      "_id": "594281cae75d6204008ba08e",
+      "group": "6",
+      "thing": {
+        "articulo": "Sandia",
+        "precio": "123",
+        "lugar": "Verduleria Pepe"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-15T12:47:06.130Z"
+    },
+    {
+      "_id": "59428235e75d6204008ba08f",
+      "group": "6",
+      "thing": {
+        "articulo": "Sandia",
+        "precio": "123",
+        "lugar": "Verduleria Pepe"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-15T12:48:53.443Z"
+    },
+    {
+      "_id": "5942823be75d6204008ba090",
+      "group": "6",
+      "thing": {
+        "articulo": "Pera",
+        "precio": 123,
+        "lugar": "Mercado"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-15T12:48:59.059Z"
+    },
+    {
+      "_id": "5942823be75d6204008ba091",
+      "group": "6",
+      "thing": {
+        "articulo": "Pera",
+        "precio": 124,
+        "lugar": "Mercado"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-15T12:48:59.070Z"
+    },
+    {
+      "_id": "5942823be75d6204008ba092",
+      "group": "6",
+      "thing": {
+        "articulo": "Pera",
+        "precio": 125,
+        "lugar": "Mercado"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-15T12:48:59.087Z"
+    },
+    {
+      "_id": "5942823de75d6204008ba093",
+      "group": "6",
+      "thing": {
+        "articulo": "Pera",
+        "precio": 123,
+        "lugar": "Mercado"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-15T12:49:01.919Z"
+    },
+    {
+      "_id": "5942823de75d6204008ba094",
+      "group": "6",
+      "thing": {
+        "articulo": "Pera",
+        "precio": 124,
+        "lugar": "Mercado"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-15T12:49:01.921Z"
+    },
+    {
+      "_id": "5942823de75d6204008ba095",
+      "group": "6",
+      "thing": {
+        "articulo": "Pera",
+        "precio": 125,
+        "lugar": "Mercado"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-15T12:49:01.923Z"
+    },
+    {
+      "_id": "5942b2cbe75d6204008ba0cb",
+      "group": "34",
+      "thing": {
+        "horario": "16",
+        "producto": "Cappuchino",
+        "precio": "40"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-15T16:16:11.128Z"
+    },
+    {
+      "_id": "5942b57be75d6204008ba0d0",
+      "group": "114",
+      "thing": "{\"tiempo\":\"2\",\"medida\":\"3\",\"tarifa\":\"4\"}",
+      "__v": 0,
+      "dateAdded": "2017-06-15T16:27:39.455Z"
+    },
+    {
+      "_id": "5942b80ce75d6204008ba0d1",
+      "group": "114",
+      "thing": "{\"tiempo\":\"6\",\"medida\":\"6\",\"tarifa\":\"7\"}",
+      "__v": 0,
+      "dateAdded": "2017-06-15T16:38:36.682Z"
+    },
+    {
+      "_id": "5942b8b9e75d6204008ba0d2",
+      "group": "114",
+      "thing": "{\"tiempo\":\"5\",\"medida\":\"6\",\"tarifa\":\"7\"}",
+      "__v": 0,
+      "dateAdded": "2017-06-15T16:41:29.709Z"
+    },
+    {
+      "_id": "5942d0d0e75d6204008ba0e6",
+      "group": "112",
+      "thing": {
+        "Medidas": "Busto",
+        "Talle S": "10",
+        "Talle M": "10",
+        "Talle L": "10",
+        "Talle XL": "10"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-15T18:24:16.247Z"
+    },
+    {
+      "_id": "5942d0d1e75d6204008ba0e7",
+      "group": "112",
+      "thing": {
+        "Medidas": "Cintura",
+        "Talle S": "10",
+        "Talle M": "10",
+        "Talle L": "10",
+        "Talle XL": "10"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-15T18:24:17.181Z"
+    },
+    {
+      "_id": "5942d0d1e75d6204008ba0e8",
+      "group": "112",
+      "thing": {
+        "Medidas": "Cadera",
+        "Talle S": "10",
+        "Talle M": "10",
+        "Talle L": "10",
+        "Talle XL": "10"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-15T18:24:17.192Z"
+    },
+    {
+      "_id": "5942df67e75d6204008ba0ed",
+      "group": "359",
+      "__v": 0,
+      "dateAdded": "2017-06-15T19:26:31.223Z"
+    },
+    {
+      "_id": "5942ebb1e75d6204008ba0f7",
+      "group": "420",
+      "thing": {
+        "semana": "semana2",
+        "lunes": "fg",
+        "martes": "",
+        "miercoles": "fgh",
+        "jueves": "",
+        "viernes": "fgh",
+        "sabado": "gh",
+        "domingo": ""
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-15T20:18:57.654Z"
+    },
+    {
+      "_id": "5942ebb3e75d6204008ba0f8",
+      "group": "420",
+      "thing": {
+        "semana": "semana3",
+        "lunes": "fg",
+        "martes": "",
+        "miercoles": "fgh",
+        "jueves": "",
+        "viernes": "fgh",
+        "sabado": "gh",
+        "domingo": ""
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-15T20:18:59.187Z"
+    },
+    {
+      "_id": "5942f1c6e75d6204008ba0fa",
+      "group": "135",
+      "thing": "hola",
+      "__v": 0,
+      "dateAdded": "2017-06-15T20:44:54.825Z"
+    },
+    {
+      "_id": "5942f2aae75d6204008ba0fc",
+      "group": "135",
+      "thing": "http://3.bp.blogspot.com/-JBIvNdLkLV8/VhmH1BE9ExI/AAAAAAAAmzY/GBalDxcNhw0/s1600/gggg.jpg",
+      "__v": 0,
+      "dateAdded": "2017-06-15T20:48:42.732Z"
+    },
+    {
+      "_id": "5942f9ede75d6204008ba10b",
+      "group": "Grupo: 130",
+      "thing": {
+        "marca": "aaa",
+        "modelo": "bbb",
+        "memoria": "ccc",
+        "frecuencia": "ddd",
+        "banda": "eee",
+        "consumo": "fff"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-15T21:19:41.711Z"
+    },
+    {
+      "_id": "5942faede75d6204008ba10f",
+      "group": "Grupo: 131",
+      "thing": {
+        "marca": "aaa",
+        "modelo": "bbb",
+        "memoria": "ccc",
+        "frecuencia": "ddd",
+        "banda": "eee",
+        "consumo": "fff"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-15T21:23:57.878Z"
+    },
+    {
+      "_id": "5942fb24e75d6204008ba110",
+      "group": "Grupo: 131",
+      "thing": {
+        "marca": "ati",
+        "modelo": "radeon",
+        "memoria": "16",
+        "frecuencia": "2000MHZ",
+        "banda": "400GB/s",
+        "consumo": "Consumo: 100w"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-15T21:24:52.735Z"
+    },
+    {
+      "_id": "5942fb62e75d6204008ba111",
+      "group": "Grupo: 131",
+      "thing": {
+        "marca": "aaa",
+        "modelo": "bbb",
+        "memoria": "ccc",
+        "frecuencia": "ddd",
+        "banda": "eee",
+        "consumo": "fff"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-15T21:25:54.277Z"
+    },
+    {
+      "_id": "5942fbfbe75d6204008ba112",
+      "group": "131",
+      "thing": {
+        "marca": "aaa",
+        "modelo": "sss",
+        "memoria": "ccc",
+        "frecuencia": "qqq",
+        "banda": "eee",
+        "consumo": "rrrr"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-15T21:28:27.584Z"
+    },
+    {
+      "_id": "5942ff3fe75d6204008ba113",
+      "group": "131",
+      "thing": {
+        "marca": "mansi",
+        "modelo": "mansito",
+        "memoria": "1mega",
+        "frecuencia": "1mhz",
+        "banda": "no tiene",
+        "consumo": "mucho"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-15T21:42:23.928Z"
+    },
+    {
+      "_id": "59430557e75d6204008ba114",
+      "group": "111",
+      "thing": {
+        "modelo": "23",
+        "imagen": "657",
+        "material": "Cuero",
+        "precio": "67"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-15T22:08:23.523Z"
+    },
+    {
+      "_id": "59430557e75d6204008ba115",
+      "group": "111",
+      "thing": {
+        "modelo": "DINA",
+        "imagen": "imagenes/c1_2.jpg",
+        "material": "Gamuza",
+        "precio": "650"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-15T22:08:23.525Z"
+    },
+    {
+      "_id": "59430557e75d6204008ba116",
+      "group": "111",
+      "thing": {
+        "modelo": "PAZ",
+        "imagen": "imagenes/c8.jpg",
+        "material": "Cuero con tachas",
+        "precio": "800"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-15T22:08:23.830Z"
+    },
+    {
+      "_id": "59430875e75d6204008ba117",
+      "group": "131",
+      "thing": {
+        "marca": "NVIDIA"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-15T22:21:41.535Z"
+    },
+    {
+      "_id": "59430b89e75d6204008ba11a",
+      "group": "420",
+      "thing": {
+        "semana": "semana1",
+        "lunes": "asdsd",
+        "martes": "sad",
+        "miercoles": "sad",
+        "jueves": "sad",
+        "viernes": "dd",
+        "sabado": "dd",
+        "domingo": "dd"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-15T22:34:49.796Z"
+    },
+    {
+      "_id": "59430b89e75d6204008ba11b",
+      "group": "420",
+      "thing": {
+        "semana": "semana3",
+        "lunes": "asdsd",
+        "martes": "sad",
+        "miercoles": "sad",
+        "jueves": "sad",
+        "viernes": "dd",
+        "sabado": "dd",
+        "domingo": "dd"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-15T22:34:49.954Z"
+    },
+    {
+      "_id": "59430b8ae75d6204008ba11c",
+      "group": "420",
+      "thing": {
+        "semana": "semana2",
+        "lunes": "asdsd",
+        "martes": "sad",
+        "miercoles": "sad",
+        "jueves": "sad",
+        "viernes": "dd",
+        "sabado": "dd",
+        "domingo": "dd"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-15T22:34:50.059Z"
+    },
+    {
+      "_id": "59430b90e75d6204008ba11d",
+      "group": "420",
+      "thing": {
+        "semana": "semana4",
+        "lunes": "asdsd",
+        "martes": "sad",
+        "miercoles": "sad",
+        "jueves": "sad",
+        "viernes": "dd",
+        "sabado": "dd",
+        "domingo": "dd"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-15T22:34:56.668Z"
+    },
+    {
+      "_id": "59430b90e75d6204008ba11e",
+      "group": "420",
+      "thing": {
+        "semana": "semana5",
+        "lunes": "asdsd",
+        "martes": "sad",
+        "miercoles": "sad",
+        "jueves": "sad",
+        "viernes": "dd",
+        "sabado": "dd",
+        "domingo": "dd"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-15T22:34:56.924Z"
+    },
+    {
+      "_id": "594318dee75d6204008ba125",
+      "group": "107",
+      "thing": "hola",
+      "__v": 0,
+      "dateAdded": "2017-06-15T23:31:42.704Z"
+    },
+    {
+      "_id": "594318f2e75d6204008ba126",
+      "group": "107",
+      "thing": "ejemplo",
+      "__v": 0,
+      "dateAdded": "2017-06-15T23:32:02.947Z"
+    },
+    {
+      "_id": "594333562c4f3e040031a060",
+      "group": "114",
+      "thing": {
+        "Materiales": "t",
+        "Pasos": "t"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-16T01:24:38.047Z"
+    },
+    {
+      "_id": "59433c512c4f3e040031a064",
+      "group": "131",
+      "thing": {
+        "marca": "ATI"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-16T02:02:57.198Z"
+    },
+    {
+      "_id": "59433f059b75600400f7cc35",
+      "group": "131",
+      "thing": {
+        "marca": "ATI"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-16T02:14:29.033Z"
+    },
+    {
+      "_id": "59433f3e9b75600400f7cc36",
+      "group": "131",
+      "thing": {
+        "marca": "asd"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-16T02:15:26.480Z"
+    },
+    {
+      "_id": "594348709b75600400f7cc3d",
+      "group": "131",
+      "thing": "cacatua",
+      "__v": 0,
+      "dateAdded": "2017-06-16T02:54:40.671Z"
+    },
+    {
+      "_id": "59434a359b75600400f7cc3e",
+      "group": "150",
+      "thing": "{\"nombre\": \"cafe chico\",\n\"precio\": 25}",
+      "__v": 0,
+      "dateAdded": "2017-06-16T03:02:13.796Z"
+    },
+    {
+      "_id": "594353699b75600400f7cc44",
+      "group": "1114",
+      "thing": {
+        "Materiales": "5",
+        "Pasos": "e"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-16T03:41:29.749Z"
+    },
+    {
+      "_id": "594376ed3cbacd04008b879d",
+      "group": "122",
+      "thing": "  thing:  [{ \"seminario\":\"Objetos en chapa\", \"descripción\":\"Corte con tijera, moldeado y puntos de soldadura para el diseño de tutores\", \"fechas\":\"8 de julio\", \"horarios\":\"9 a 13.30hs\"},{\"seminario\":\"Objetos en hierro\", \"descripción\":\"Corte con tijera, moldeado y puntos de soldadura para el diseño de tutores\", \"fechas\":\"15 de julio\", \"horarios\":\"9 a 13.30hs\"},{\"seminario\":\"Soldadura de alpaca\", \"descripción\":\"Iniciación en el trabajo de joyeria en alpaca\", \"fechas\":\"22 de julio\", \"horarios\":\"9 a 13.30hs\"};]}",
+      "__v": 0,
+      "dateAdded": "2017-06-16T06:13:01.609Z"
+    },
+    {
+      "_id": "5943eb83d247610400774763",
+      "group": "107",
+      "thing": "prueba 3",
+      "__v": 0,
+      "dateAdded": "2017-06-16T14:30:27.972Z"
+    },
+    {
+      "_id": "5943f34dd247610400774764",
+      "group": "131",
+      "thing": {
+        "marca": "aaa",
+        "modelo": "bbb",
+        "memoria": "ccc",
+        "frecuencia": "ddd",
+        "banda": "ee",
+        "consumo": "fff"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-16T15:03:41.857Z"
+    },
+    {
+      "_id": "5943f54a369c1204007562c8",
+      "group": "131",
+      "thing": {
+        "marca": "13131",
+        "modelo": "1",
+        "memoria": "31",
+        "frecuencia": "31",
+        "banda": "313",
+        "consumo": "1313"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-16T15:12:10.717Z"
+    },
+    {
+      "_id": "59440d538aa2e40400808d8a",
+      "group": "131",
+      "thing": {
+        "marca": "asd"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-16T16:54:43.183Z"
+    },
+    {
+      "_id": "59440e498aa2e40400808d8b",
+      "group": "1114",
+      "thing": {
+        "Materiales": "mat",
+        "Pasos": "pas"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-16T16:58:49.432Z"
+    },
+    {
+      "_id": "59440fcf8aa2e40400808d8c",
+      "group": "131",
+      "thing": {
+        "marca": "viernes"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-16T17:05:19.777Z"
+    },
+    {
+      "_id": "594411638aa2e40400808d93",
+      "group": "131",
+      "thing": {
+        "marca": "viernes2"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-16T17:12:03.517Z"
+    },
+    {
+      "_id": "59441eec8aa2e40400808d9c",
+      "group": "131",
+      "thing": {
+        "marca": "NVIDIA GeForce",
+        "modelo": "GTX 1080",
+        "memoria": "16 GB GDDR5",
+        "frecuencia": "2000MHZ",
+        "banda": "300 Gb/s",
+        "consumo": "150 Watts"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-16T18:09:48.140Z"
+    },
+    {
+      "_id": "59441fca8aa2e40400808d9e",
+      "group": "asdas",
+      "thing": {
+        "marca": "sdfs",
+        "modelo": "sdfds",
+        "memoria": "dsfsd",
+        "frecuencia": "sdfds",
+        "banda": "sdfds",
+        "consumo": ""
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-16T18:13:30.812Z"
+    },
+    {
+      "_id": "594429128aa2e40400808db1",
+      "group": "259",
+      "thing": {
+        "nombre": "BUSCA CON JQUERY",
+        "mail": "BUSCA CON JQUERY",
+        "telefono": "BUSCA CON JQUERY",
+        "consulta": "BUSCA CON JQUERY"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-16T18:53:06.395Z"
+    },
+    {
+      "_id": "5944291a8aa2e40400808db2",
+      "group": "259",
+      "thing": {
+        "nombre": "BUSCA CON JQUERY",
+        "mail": "BUSCA CON JQUERY",
+        "telefono": "BUSCA CON JQUERY",
+        "consulta": "BUSCA CON JQUERY"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-16T18:53:14.977Z"
+    },
+    {
+      "_id": "594429738aa2e40400808db3",
+      "group": "259",
+      "thing": {
+        "nombre": "BUSCA CON JQUERY",
+        "mail": "BUSCA CON JQUERY",
+        "telefono": "BUSCA CON JQUERY",
+        "consulta": "BUSCA CON JQUERY"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-16T18:54:43.035Z"
+    },
+    {
+      "_id": "59442d0f8aa2e40400808db6",
+      "group": "151",
+      "thing": {
+        "plato": "",
+        "ingredientes": "sad",
+        "precio": ""
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-16T19:10:07.253Z"
+    },
+    {
+      "_id": "59442d148aa2e40400808db7",
+      "group": "151",
+      "thing": {
+        "plato": "",
+        "ingredientes": "sad",
+        "precio": "asd"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-16T19:10:12.964Z"
+    },
+    {
+      "_id": "59442d168aa2e40400808db8",
+      "group": "151",
+      "thing": {
+        "plato": "asdasd",
+        "ingredientes": "sad",
+        "precio": "asd"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-16T19:10:14.986Z"
+    },
+    {
+      "_id": "59442d178aa2e40400808db9",
+      "group": "151",
+      "thing": {
+        "plato": "asdasd",
+        "ingredientes": "sad",
+        "precio": "asd"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-16T19:10:15.523Z"
+    },
+    {
+      "_id": "59442d178aa2e40400808dba",
+      "group": "151",
+      "thing": {
+        "plato": "asdasd",
+        "ingredientes": "sad",
+        "precio": "asd"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-16T19:10:15.939Z"
+    },
+    {
+      "_id": "59442d188aa2e40400808dbb",
+      "group": "151",
+      "thing": {
+        "plato": "asdasd",
+        "ingredientes": "sad",
+        "precio": "asd"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-16T19:10:16.130Z"
+    },
+    {
+      "_id": "59442ede8aa2e40400808de1",
+      "group": "259",
+      "thing": {
+        "nombre": "BUSCA CON JQUERY",
+        "mail": "BUSCA CON JQUERY",
+        "telefono": "BUSCA CON JQUERY",
+        "consulta": "BUSCA CON JQUERY"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-16T19:17:50.037Z"
+    },
+    {
+      "_id": "59442f578aa2e40400808de2",
+      "group": "259",
+      "thing": {
+        "nombre": "BUSCA CON JQUERY",
+        "mail": "BUSCA CON JQUERY",
+        "telefono": "BUSCA CON JQUERY",
+        "consulta": "BUSCA CON JQUERY"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-16T19:19:51.571Z"
+    },
+    {
+      "_id": "59442f578aa2e40400808de3",
+      "group": "259",
+      "thing": {
+        "nombre": "BUSCA CON JQUERY",
+        "mail": "BUSCA CON JQUERY",
+        "telefono": "BUSCA CON JQUERY",
+        "consulta": "BUSCA CON JQUERY"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-16T19:19:51.770Z"
+    },
+    {
+      "_id": "59442fa78aa2e40400808de4",
+      "group": "259",
+      "thing": {
+        "nombre": "BUSCA CON JQUERY",
+        "mail": "BUSCA CON JQUERY",
+        "telefono": "BUSCA CON JQUERY",
+        "consulta": "BUSCA CON JQUERY"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-16T19:21:11.101Z"
+    },
+    {
+      "_id": "594430368aa2e40400808df7",
+      "group": "91",
+      "thing": {
+        "pais": "USA",
+        "ciudad": "NYC",
+        "precioI": "18000",
+        "precioP": "15000"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-16T19:23:34.368Z"
+    },
+    {
+      "_id": "594430368aa2e40400808df8",
+      "group": "91",
+      "thing": {
+        "pais": "CANADA",
+        "ciudad": "TORONRO",
+        "precioI": "21000",
+        "precioP": "18000"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-16T19:23:34.372Z"
+    },
+    {
+      "_id": "594430368aa2e40400808df9",
+      "group": "91",
+      "thing": {
+        "pais": "USA",
+        "ciudad": "Las Vegas",
+        "precioI": "21000",
+        "precioP": "18000"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-16T19:23:34.375Z"
+    },
+    {
+      "_id": "594432e18aa2e40400808e13",
+      "group": "1114",
+      "thing": {
+        "Dificultad": "",
+        "Materiales": "ljhjhgdf",
+        "Pasos": "luyutgf"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-16T19:34:57.856Z"
+    },
+    {
+      "_id": "594433248aa2e40400808e14",
+      "group": "1114",
+      "thing": {
+        "Dificultad": "Facil",
+        "Materiales": "iuytr",
+        "Pasos": "jhg"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-16T19:36:04.867Z"
+    },
+    {
+      "_id": "594435968aa2e40400808e16",
+      "group": "1114",
+      "thing": {
+        "Dificultad": "Facil",
+        "Materiales": "hg",
+        "Pasos": "hgf"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-16T19:46:30.676Z"
+    },
+    {
+      "_id": "594436978aa2e40400808e17",
+      "group": "259",
+      "thing": {
+        "nombre": "BUSCA CON JQUERY",
+        "mail": "BUSCA CON JQUERY",
+        "telefono": "BUSCA CON JQUERY",
+        "consulta": "BUSCA CON JQUERY"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-16T19:50:47.943Z"
+    },
+    {
+      "_id": "594436ba8aa2e40400808e18",
+      "group": "259",
+      "thing": {
+        "nombre": "BUSCA CON JQUERY",
+        "mail": "BUSCA CON JQUERY",
+        "telefono": "BUSCA CON JQUERY",
+        "consulta": "BUSCA CON JQUERY"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-16T19:51:22.321Z"
+    },
+    {
+      "_id": "594437c98aa2e40400808e19",
+      "group": "151",
+      "thing": {
+        "tipo_plato": "1",
+        "plato": "fhgf",
+        "ingredientes": "fc",
+        "precio": "e"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-16T19:55:53.303Z"
+    },
+    {
+      "_id": "594438038aa2e40400808e1a",
+      "group": "151",
+      "thing": {
+        "tipo_plato": "1",
+        "plato": "asd",
+        "ingredientes": "asd",
+        "precio": "ads"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-16T19:56:51.475Z"
+    },
+    {
+      "_id": "59444c748aa2e40400808e2b",
+      "group": "qqq",
+      "thing": {
+        "Marca": "qqqq",
+        "Modelo": "qqq",
+        "Memoria": "qqq",
+        "Banda": "qqq",
+        "Consumo": "qqq"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-16T21:24:04.595Z"
+    },
+    {
+      "_id": "59444ca58aa2e40400808e2c",
+      "group": "131",
+      "thing": {
+        "Marca": "qqqq",
+        "Modelo": "qqq",
+        "Memoria": "qqq",
+        "Banda": "qqq",
+        "Consumo": "qqq"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-16T21:24:53.871Z"
+    },
+    {
+      "_id": "594454878aa2e40400808e32",
+      "group": "145",
+      "thing": {
+        "Nombre": "Acompañamiento Pedagógico, Lúdico y recreativo",
+        "Lugar": "Centro Cultural Atrapasueños",
+        "Horarios": "Lun, Mar, Juev 18 hs",
+        "Cant_Voluntarios": "8"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-16T21:58:31.791Z"
+    },
+    {
+      "_id": "594454878aa2e40400808e33",
+      "group": "145",
+      "thing": {
+        "Nombre": "Acompañamiento Pedagógico, Lúdico y recreativo",
+        "Lugar": "Uni Barrial",
+        "Horarios": "Lun, Mar, Vier 18 hs",
+        "Cant_Voluntarios": "12"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-16T21:58:31.797Z"
+    },
+    {
+      "_id": "594454878aa2e40400808e34",
+      "group": "145",
+      "thing": {
+        "Nombre": "Mesa ESS",
+        "Lugar": "CCU",
+        "Horarios": "Sabados y Domingos 8 a 20 hs",
+        "Cant_Voluntarios": "5"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-16T21:58:31.994Z"
+    },
+    {
+      "_id": "594459c38aa2e40400808e42",
+      "group": "106",
+      "thing": {
+        "numero": "1",
+        "titulo": "743",
+        "duracion": "3:30"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-16T22:20:51.789Z"
+    },
+    {
+      "_id": "594459c38aa2e40400808e43",
+      "group": "106",
+      "thing": {
+        "numero": "2",
+        "titulo": "Calido y Rojo",
+        "duracion": "3:22"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-16T22:20:51.972Z"
+    },
+    {
+      "_id": "594459c38aa2e40400808e44",
+      "group": "106",
+      "thing": {
+        "numero": "3",
+        "titulo": "No",
+        "duracion": "4:10"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-16T22:20:51.984Z"
+    },
+    {
+      "_id": "59445a098aa2e40400808e45",
+      "group": "106",
+      "thing": {
+        "numero": "1",
+        "titulo": "743",
+        "duracion": "3:30"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-16T22:22:01.862Z"
+    },
+    {
+      "_id": "59445a0a8aa2e40400808e46",
+      "group": "106",
+      "thing": {
+        "numero": "2",
+        "titulo": "Calido y Rojo",
+        "duracion": "3:22"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-16T22:22:02.054Z"
+    },
+    {
+      "_id": "59445a0a8aa2e40400808e47",
+      "group": "106",
+      "thing": {
+        "numero": "3",
+        "titulo": "No",
+        "duracion": "4:10"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-16T22:22:02.153Z"
+    },
+    {
+      "_id": "59446aa07a1ce604004c1333",
+      "group": "131",
+      "thing": {
+        "Marca": "juan",
+        "Modelo": "juan",
+        "Memoria": "juan",
+        "Banda": "juan",
+        "Consumo": "juan"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-16T23:32:48.594Z"
+    },
+    {
+      "_id": "594488007a1ce604004c134a",
+      "group": "34",
+      "thing": {
+        "horario": "19",
+        "producto": "Machhiatto",
+        "precio": "45"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-17T01:38:08.964Z"
+    },
+    {
+      "_id": "5944be23d5dd150400f4f493",
+      "group": "132",
+      "thing": {
+        "marca": "ATI",
+        "modelo": "HD RADEON X8",
+        "memoria": "8 GB GDDR5",
+        "banda": "220 Gb/s",
+        "consumo": "160 Watts"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-17T05:29:07.752Z"
+    },
+    {
+      "_id": "59455f1c3b011f0400b7b36c",
+      "group": "117",
+      "thing": {
+        "local": "Independiente",
+        "visitante": "Racing",
+        "resultado": "7-0",
+        "year": "1940"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-17T16:55:56.397Z"
+    },
+    {
+      "_id": "594570c63b011f0400b7b377",
+      "group": "125",
+      "thing": {
+        "autor": "lll",
+        "titulo": "hhh"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-17T18:11:18.363Z"
+    },
+    {
+      "_id": "594571443b011f0400b7b378",
+      "group": "125",
+      "thing": {
+        "autor": "lll",
+        "titulo": "hhh"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-17T18:13:24.970Z"
+    },
+    {
+      "_id": "594573703b011f0400b7b379",
+      "group": "125",
+      "thing": {
+        "autor": "sasasa",
+        "titulo": "sasasa"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-17T18:22:40.659Z"
+    },
+    {
+      "_id": "594577a23b011f0400b7b37f",
+      "group": "113",
+      "thing": {
+        "nombre": "Lucia",
+        "apellido": "Diaz",
+        "email": "luciadiaz@gmail.com",
+        "dni": "35654987"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-17T18:40:34.434Z"
+    },
+    {
+      "_id": "59457be73b011f0400b7b381",
+      "group": "125",
+      "thing": {
+        "autor": "jj",
+        "titulo": "kk"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-17T18:58:47.749Z"
+    },
+    {
+      "_id": "59457d213b011f0400b7b382",
+      "group": "114",
+      "thing": "{\"tiempo\":\"5\",\"medida\":\"5\",\"tarifa\":\"5\"}",
+      "__v": 0,
+      "dateAdded": "2017-06-17T19:04:01.685Z"
+    },
+    {
+      "_id": "59457d223b011f0400b7b383",
+      "group": "114",
+      "thing": "{\"tiempo\":\"5\",\"medida\":\"5\",\"tarifa\":\"5\"}",
+      "__v": 0,
+      "dateAdded": "2017-06-17T19:04:02.898Z"
+    },
+    {
+      "_id": "59457d263b011f0400b7b384",
+      "group": "114",
+      "thing": "{\"tiempo\":\"5\",\"medida\":\"5\",\"tarifa\":\"5\"}",
+      "__v": 0,
+      "dateAdded": "2017-06-17T19:04:06.435Z"
+    },
+    {
+      "_id": "59457d323b011f0400b7b385",
+      "group": "114",
+      "thing": "{\"tiempo\":\"5\",\"medida\":\"5\",\"tarifa\":\"5\"}",
+      "__v": 0,
+      "dateAdded": "2017-06-17T19:04:18.511Z"
+    },
+    {
+      "_id": "59457d323b011f0400b7b386",
+      "group": "114",
+      "thing": "{\"tiempo\":\"5\",\"medida\":\"5\",\"tarifa\":\"5\"}",
+      "__v": 0,
+      "dateAdded": "2017-06-17T19:04:18.743Z"
+    },
+    {
+      "_id": "59457d323b011f0400b7b387",
+      "group": "114",
+      "thing": "{\"tiempo\":\"5\",\"medida\":\"5\",\"tarifa\":\"5\"}",
+      "__v": 0,
+      "dateAdded": "2017-06-17T19:04:18.960Z"
+    },
+    {
+      "_id": "59457d333b011f0400b7b388",
+      "group": "114",
+      "thing": "{\"tiempo\":\"5\",\"medida\":\"5\",\"tarifa\":\"5\"}",
+      "__v": 0,
+      "dateAdded": "2017-06-17T19:04:19.176Z"
+    },
+    {
+      "_id": "59457d333b011f0400b7b389",
+      "group": "114",
+      "thing": "{\"tiempo\":\"5\",\"medida\":\"5\",\"tarifa\":\"5\"}",
+      "__v": 0,
+      "dateAdded": "2017-06-17T19:04:19.485Z"
+    },
+    {
+      "_id": "59457d353b011f0400b7b38a",
+      "group": "114",
+      "thing": "{\"tiempo\":\"5\",\"medida\":\"5\",\"tarifa\":\"5\"}",
+      "__v": 0,
+      "dateAdded": "2017-06-17T19:04:21.256Z"
+    },
+    {
+      "_id": "59457e033b011f0400b7b38b",
+      "group": "233",
+      "thing": {
+        "equipo": "Golden State Warriors",
+        "ganados": "67",
+        "perdidos": "15",
+        "jd": "-",
+        "local": "36-5",
+        "visitante": "31-10",
+        "div": "14-2",
+        "conf": "42-10"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-17T19:07:47.067Z"
+    },
+    {
+      "_id": "59457e413b011f0400b7b38c",
+      "group": "233",
+      "thing": {
+        "equipo": "Golden State Warriors",
+        "ganados": "67",
+        "perdidos": "15",
+        "jd": "-",
+        "local": "36-5",
+        "visitante": "31-10",
+        "div": "14-2",
+        "conf": "42-10"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-17T19:08:49.604Z"
+    },
+    {
+      "_id": "59458a533b011f0400b7b38d",
+      "group": "132",
+      "thing": {
+        "marca": "adasd",
+        "modelo": "dadsa",
+        "memoria": "asdad",
+        "frecuencia": "adasd",
+        "banda": "adada",
+        "consumo": "dasdad"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-17T20:00:19.550Z"
+    },
+    {
+      "_id": "59458ab13b011f0400b7b38e",
+      "group": "259",
+      "thing": {
+        "nombre": "BUSCA CON JQUERY",
+        "mail": "BUSCA CON JQUERY",
+        "telefono": "BUSCA CON JQUERY",
+        "consulta": "BUSCA CON JQUERY"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-17T20:01:53.640Z"
+    },
+    {
+      "_id": "5945ab063b011f0400b7b391",
+      "group": "107",
+      "thing": "{ \"valor\" : \"hola\",\n\"prueba\" : 4\n}",
+      "__v": 0,
+      "dateAdded": "2017-06-17T22:19:50.963Z"
+    },
+    {
+      "_id": "5945b7d83b011f0400b7b392",
+      "group": "107",
+      "__v": 0,
+      "dateAdded": "2017-06-17T23:14:32.881Z"
+    },
+    {
+      "_id": "5945b86a3b011f0400b7b393",
+      "group": "107",
+      "thing": {
+        "tipoCerveza": "Scotch ale",
+        "cantidad": "4",
+        "envaseElegido": "Porron (250ml)"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-17T23:16:58.302Z"
+    },
+    {
+      "_id": "5945b8913b011f0400b7b394",
+      "group": "107",
+      "thing": {
+        "tipoCerveza": "India pale ale",
+        "cantidad": "59",
+        "envaseElegido": "Botellas de Litro"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-17T23:17:37.903Z"
+    },
+    {
+      "_id": "5945b96f3b011f0400b7b395",
+      "group": "107",
+      "thing": {
+        "tipoCerveza": "Brown porter",
+        "cantidad": "60",
+        "envaseElegido": "Barriles"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-17T23:21:19.685Z"
+    },
+    {
+      "_id": "5945b9af3b011f0400b7b396",
+      "group": "107",
+      "thing": {
+        "tipoCerveza": "Barleywine",
+        "cantidad": "150",
+        "envaseElegido": "Latitas"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-17T23:22:23.052Z"
+    },
+    {
+      "_id": "5945bfbd3b011f0400b7b397",
+      "group": "107",
+      "thing": [
+        {
+          "tipoCerveza": "Brown porter",
+          "cantidad": "4",
+          "envaseElegido": "Botellas de Litro"
+        }
+      ],
+      "__v": 0,
+      "dateAdded": "2017-06-17T23:48:13.468Z"
+    },
+    {
+      "_id": "5945c4ed3b011f0400b7b39b",
+      "group": "135",
+      "thing": "{position:3,image:'http://4.bp.blogspot.com/-buptqfRsbX8/Ui3RkCCwAZI/AAAAAAAAA28/KJ5HCrfG8f8/s1600/onepiece1.jpg',title:'titulo3',author:'autor3',category:'ATP',}",
+      "__v": 0,
+      "dateAdded": "2017-06-18T00:10:21.281Z"
+    },
+    {
+      "_id": "5945c4f43b011f0400b7b39c",
+      "group": "135",
+      "thing": "position:3,image:'http://4.bp.blogspot.com/-buptqfRsbX8/Ui3RkCCwAZI/AAAAAAAAA28/KJ5HCrfG8f8/s1600/onepiece1.jpg',title:'titulo3',author:'autor3',category:'ATP',",
+      "__v": 0,
+      "dateAdded": "2017-06-18T00:10:28.735Z"
+    },
+    {
+      "_id": "5945c4f83b011f0400b7b39d",
+      "group": "135",
+      "thing": "dfdfdf",
+      "__v": 0,
+      "dateAdded": "2017-06-18T00:10:32.599Z"
+    },
+    {
+      "_id": "5945d1233b011f0400b7b3ab",
+      "group": "135",
+      "thing": {
+        "position": 3,
+        "image": "http://4.bp.blogspot.com/-buptqfRsbX8/Ui3RkCCwAZI/AAAAAAAAA28/KJ5HCrfG8f8/s1600/onepiece1.jpg",
+        "title": "titulo3",
+        "author": "autor3",
+        "category": "ATP"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-18T01:02:27.163Z"
+    },
+    {
+      "_id": "5945d1233b011f0400b7b3ac",
+      "group": "135",
+      "thing": {
+        "position": 1,
+        "image": "http://4.bp.blogspot.com/-buptqfRsbX8/Ui3RkCCwAZI/AAAAAAAAA28/KJ5HCrfG8f8/s1600/onepiece1.jpg",
+        "title": "titulo1",
+        "author": "autor1",
+        "category": "ATP"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-18T01:02:27.174Z"
+    },
+    {
+      "_id": "593f2f2b278df10400c48ac2",
+      "group": "159",
+      "thing": {
+        "nombre": {
+          "length": 1,
+          "context": {
+            "location": {
+              "href": "file:///C:/xampp/htdocs/proyectos/tpe2/ejemploPost.html",
+              "origin": "file://",
+              "protocol": "file:",
+              "host": "",
+              "hostname": "",
+              "port": "",
+              "pathname": "/C:/xampp/htdocs/proyectos/tpe2/ejemploPost.html",
+              "search": "",
+              "hash": ""
+            }
+          },
+          "selector": "#nombre"
+        },
+        "email": {
+          "length": 1,
+          "context": {
+            "location": {
+              "href": "file:///C:/xampp/htdocs/proyectos/tpe2/ejemploPost.html",
+              "origin": "file://",
+              "protocol": "file:",
+              "host": "",
+              "hostname": "",
+              "port": "",
+              "pathname": "/C:/xampp/htdocs/proyectos/tpe2/ejemploPost.html",
+              "search": "",
+              "hash": ""
+            }
+          },
+          "selector": "#mail"
+        }
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-13T00:17:47.371Z"
+    },
+    {
+      "_id": "593f2f51278df10400c48ac3",
+      "group": "159",
+      "thing": {
+        "nombre": {
+          "length": 1,
+          "context": {
+            "location": {
+              "href": "file:///C:/xampp/htdocs/proyectos/tpe2/ejemploPost.html",
+              "origin": "file://",
+              "protocol": "file:",
+              "host": "",
+              "hostname": "",
+              "port": "",
+              "pathname": "/C:/xampp/htdocs/proyectos/tpe2/ejemploPost.html",
+              "search": "",
+              "hash": ""
+            }
+          },
+          "selector": "#nombre"
+        },
+        "email": {
+          "length": 1,
+          "context": {
+            "location": {
+              "href": "file:///C:/xampp/htdocs/proyectos/tpe2/ejemploPost.html",
+              "origin": "file://",
+              "protocol": "file:",
+              "host": "",
+              "hostname": "",
+              "port": "",
+              "pathname": "/C:/xampp/htdocs/proyectos/tpe2/ejemploPost.html",
+              "search": "",
+              "hash": ""
+            }
+          },
+          "selector": "#mail"
+        }
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-13T00:18:25.857Z"
+    },
+    {
+      "_id": "593f3223278df10400c48ac4",
+      "group": "159",
+      "thing": {
+        "nombre": {
+          "length": 1,
+          "context": {
+            "location": {
+              "href": "file:///C:/xampp/htdocs/proyectos/tpe2/ejemploPost.html",
+              "origin": "file://",
+              "protocol": "file:",
+              "host": "",
+              "hostname": "",
+              "port": "",
+              "pathname": "/C:/xampp/htdocs/proyectos/tpe2/ejemploPost.html",
+              "search": "",
+              "hash": ""
+            }
+          },
+          "selector": "#nombre"
+        },
+        "email": {
+          "length": 1,
+          "context": {
+            "location": {
+              "href": "file:///C:/xampp/htdocs/proyectos/tpe2/ejemploPost.html",
+              "origin": "file://",
+              "protocol": "file:",
+              "host": "",
+              "hostname": "",
+              "port": "",
+              "pathname": "/C:/xampp/htdocs/proyectos/tpe2/ejemploPost.html",
+              "search": "",
+              "hash": ""
+            }
+          },
+          "selector": "#mail"
+        }
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-13T00:30:27.948Z"
+    },
+    {
+      "_id": "593f4927278df10400c48ad7",
+      "group": "30",
+      "thing": {
+        "encabezado": {
+          "anio": "Año",
+          "hombre": "Hombre",
+          "mujer": "Mujer",
+          "equipo": "Equipo"
+        },
+        "col": [
+          {
+            "anio": "2007",
+            "hombre": "James Fitzgerald",
+            "mujer": "Jolie Gentry",
+            "equipo": "CrossFit Santa Cruz"
+          },
+          {
+            "anio": "2008",
+            "hombre": "Jason Khalipa",
+            "mujer": "Caity Matter",
+            "equipo": "CrossFit Oakland"
+          },
+          {
+            "anio": "2009",
+            "hombre": "Mikko Salo",
+            "mujer": "Tanya Wagner",
+            "equipo": "Northwest CrossFit"
+          },
+          {
+            "anio": "2010",
+            "hombre": "Graham Holmberg",
+            "mujer": "Kristan Clever",
+            "equipo": "CrossFit Fort Vancouver"
+          },
+          {
+            "anio": "2011",
+            "hombre": "Rich Froning Jr.",
+            "mujer": "Annie Thorisdottir",
+            "equipo": "CrossFit New England"
+          },
+          {
+            "anio": "2012",
+            "hombre": "Rich Froning Jr.",
+            "mujer": "Annie Thorisdottir",
+            "equipo": "Hack's Pack UTE"
+          },
+          {
+            "anio": "2013",
+            "hombre": "Rich Froning Jr.",
+            "mujer": "Samantha Briggs",
+            "equipo": "Hack's Pack UTE"
+          },
+          {
+            "anio": "2014",
+            "hombre": "Rich Froning Jr.",
+            "mujer": "Camille Leblanc-Bazinet",
+            "equipo": "CrossFit Invictus"
+          },
+          {
+            "anio": "2015",
+            "hombre": "Ben Smith",
+            "mujer": "Katrín Tanja Davíðsdóttir",
+            "equipo": "CrossFit Mayhem Freedom"
+          },
+          {
+            "anio": "2016",
+            "hombre": "Mathew Fraser",
+            "mujer": "Katrín Tanja Davíðsdóttir",
+            "equipo": "CrossFit Mayhem Freedom"
+          }
+        ]
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-13T02:08:39.283Z"
+    },
+    {
+      "_id": "593f4f2a278df10400c48af7",
+      "group": "30",
+      "thing": {
+        "encabezado": {
+          "anio": "Año",
+          "hombre": "Hombre",
+          "mujer": "Mujer",
+          "equipo": "Equipo"
+        },
+        "col": [
+          {
+            "anio": "2007",
+            "hombre": "James Fitzgerald",
+            "mujer": "Jolie Gentry",
+            "equipo": "CrossFit Santa Cruz"
+          },
+          {
+            "anio": "2008",
+            "hombre": "Jason Khalipa",
+            "mujer": "Caity Matter",
+            "equipo": "CrossFit Oakland"
+          },
+          {
+            "anio": "2009",
+            "hombre": "Mikko Salo",
+            "mujer": "Tanya Wagner",
+            "equipo": "Northwest CrossFit"
+          },
+          {
+            "anio": "2010",
+            "hombre": "Graham Holmberg",
+            "mujer": "Kristan Clever",
+            "equipo": "CrossFit Fort Vancouver"
+          },
+          {
+            "anio": "2011",
+            "hombre": "Rich Froning Jr.",
+            "mujer": "Annie Thorisdottir",
+            "equipo": "CrossFit New England"
+          },
+          {
+            "anio": "2012",
+            "hombre": "Rich Froning Jr.",
+            "mujer": "Annie Thorisdottir",
+            "equipo": "Hack's Pack UTE"
+          },
+          {
+            "anio": "2013",
+            "hombre": "Rich Froning Jr.",
+            "mujer": "Samantha Briggs",
+            "equipo": "Hack's Pack UTE"
+          },
+          {
+            "anio": "2014",
+            "hombre": "Rich Froning Jr.",
+            "mujer": "Camille Leblanc-Bazinet",
+            "equipo": "CrossFit Invictus"
+          },
+          {
+            "anio": "2015",
+            "hombre": "Ben Smith",
+            "mujer": "Katrín Tanja Davíðsdóttir",
+            "equipo": "CrossFit Mayhem Freedom"
+          },
+          {
+            "anio": "2016",
+            "hombre": "Mathew Fraser",
+            "mujer": "Katrín Tanja Davíðsdóttir",
+            "equipo": "CrossFit Mayhem Freedom"
+          }
+        ]
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-13T02:34:18.024Z"
+    },
+    {
+      "_id": "594068ae1ea2ba04004b58f0",
+      "group": "130",
+      "thing": {
+        "marca": "gggggggggg",
+        "modelo": "gdddddddddddddddddd",
+        "memoria": "ggggggggggggggggggg",
+        "frecuencia": "rrrrrrrrrrrrrrrrrrrrrr",
+        "banda": "tttttttttttttttttttttttttttt",
+        "consumo": "iiiiiiiiiiiiiiiiiiiiiii"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-13T22:35:26.386Z"
+    },
+    {
+      "_id": "5942dcaae75d6204008ba0ec",
+      "group": "125",
+      "thing": "var data={\n[\n{\"Titulo\":\" La Chica del tren \" ,\"Autor\":\"Paula Hawkins\"  },\n{\"Titulo\": \"El laberinto de los espiritus\" ,\"Autor\":\"Carlos Ruiz Zafón \"  },\n{\"Titulo\": \"Falco\" ,\"Autor\": \"Arturo Pérez-Reverte\" },\n{\"Titulo\": \"Harry Potter\" ,\"Autor\":  \"J. K. Rowling\" },\n{\"Titulo\": \"Quien pierde paga\" ,\"Autor\": \"Stephen King\" },\n]};\n             \n          \n          ",
+      "__v": 0,
+      "dateAdded": "2017-06-15T19:14:50.200Z"
+    },
+    {
+      "_id": "5942e8e3e75d6204008ba0f6",
+      "group": "420",
+      "thing": {
+        "semana": "semana0",
+        "lunes": "lunes1",
+        "martes": "martes2",
+        "miercoles": "miercoles3",
+        "jueves": "jueves4 ",
+        "viernes": "viernes5",
+        "sabado": "sabado6",
+        "domingo": "domingo7"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-15T20:06:59.672Z"
+    },
+    {
+      "_id": "5942f1fee75d6204008ba0fb",
+      "group": "122",
+      "thing": "{\n\"status\": \"ok\",\n\"information\":[\n{\"_id\":\n\"group\":122\n\"thing\": Nombre:Objetos en Chapa\n        Descripción:Corte con tijera, moldeado y  puntos de soldadura para el diseño de tutores\n        Fechas:Mayo 20\n        Horarios:9 a 13.30 hs.\n\"__v\":\n\"dateAdded\": \n}\n{\"_id\":\n\"group\":122\n\"thing\": Nombre:Objetos en Chapa\n        Descripción:Corte con tijera, moldeado y  puntos de soldadura para el diseño de tutores\n        Fechas:Mayo 20\n        Horarios:9 a 13.30 hs.\n\"__v\":\n\"dateAdded\": \n}\n\nNombre:Objetos en Hierro\n        Descripción:Corte y moldeado en matriz para diseño de lámparas, cestos y fanales..\n        Fechas:Mayo 20\n        Horarios:9 a 13.30 hs.\n.Nombre:Objetos en Hierro\n        Descripción:Corte y moldeado en matriz para diseño de lámparas, cestos y fanales..\n        Fechas:Mayo 20\n        Horarios:9 a 13.30 hs..\nNombre:Objetos en Hierro\n        Descripción:Corte y moldeado en matriz para <br> diseños personalizados.\n        Fechas:Mayo 20\n        Horarios:9 a 13.30 hs..\n\n\n      \n       ",
+      "__v": 0,
+      "dateAdded": "2017-06-15T20:45:50.618Z"
+    },
+    {
+      "_id": "594376e93cbacd04008b879c",
+      "group": "122",
+      "thing": "  thing:  [{ \"seminario\":\"Objetos en chapa\", \"descripción\":\"Corte con tijera, moldeado y puntos de soldadura para el diseño de tutores\", \"fechas\":\"8 de julio\", \"horarios\":\"9 a 13.30hs\"},{\"seminario\":\"Objetos en hierro\", \"descripción\":\"Corte con tijera, moldeado y puntos de soldadura para el diseño de tutores\", \"fechas\":\"15 de julio\", \"horarios\":\"9 a 13.30hs\"},{\"seminario\":\"Soldadura de alpaca\", \"descripción\":\"Iniciación en el trabajo de joyeria en alpaca\", \"fechas\":\"22 de julio\", \"horarios\":\"9 a 13.30hs\"};]}",
+      "__v": 0,
+      "dateAdded": "2017-06-16T06:12:57.542Z"
+    },
+    {
+      "_id": "5945c4c83b011f0400b7b39a",
+      "group": "135",
+      "thing": "{\n        position:3,\n        image:'http://4.bp.blogspot.com/-buptqfRsbX8/Ui3RkCCwAZI/AAAAAAAAA28/KJ5HCrfG8f8/s1600/onepiece1.jpg',\n        title:'titulo3',\n        author:'autor3',\n        category:'ATP',\n    }",
+      "__v": 0,
+      "dateAdded": "2017-06-18T00:09:44.619Z"
+    },
+    {
+      "_id": "5945d10b3b011f0400b7b3a7",
+      "group": "135",
+      "thing": {
+        "position": 1,
+        "image": "http://4.bp.blogspot.com/-buptqfRsbX8/Ui3RkCCwAZI/AAAAAAAAA28/KJ5HCrfG8f8/s1600/onepiece1.jpg",
+        "title": "titulo1",
+        "author": "autor1",
+        "category": "ATP"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-18T01:02:03.018Z"
+    },
+    {
+      "_id": "5945d10b3b011f0400b7b3a8",
+      "group": "135",
+      "thing": {
+        "position": 2,
+        "image": "http://4.bp.blogspot.com/-buptqfRsbX8/Ui3RkCCwAZI/AAAAAAAAA28/KJ5HCrfG8f8/s1600/onepiece1.jpg",
+        "title": "titulo2",
+        "author": "autor2",
+        "category": "ATP"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-18T01:02:03.037Z"
+    },
+    {
+      "_id": "5945d10b3b011f0400b7b3a9",
+      "group": "135",
+      "thing": {
+        "position": 3,
+        "image": "http://4.bp.blogspot.com/-buptqfRsbX8/Ui3RkCCwAZI/AAAAAAAAA28/KJ5HCrfG8f8/s1600/onepiece1.jpg",
+        "title": "titulo3",
+        "author": "autor3",
+        "category": "ATP"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-18T01:02:03.040Z"
+    },
+    {
+      "_id": "5945d1233b011f0400b7b3aa",
+      "group": "135",
+      "thing": {
+        "position": 2,
+        "image": "http://4.bp.blogspot.com/-buptqfRsbX8/Ui3RkCCwAZI/AAAAAAAAA28/KJ5HCrfG8f8/s1600/onepiece1.jpg",
+        "title": "titulo2",
+        "author": "autor2",
+        "category": "ATP"
+      },
+      "__v": 0,
+      "dateAdded": "2017-06-18T01:02:27.157Z"
+    }
+  ]
+}
